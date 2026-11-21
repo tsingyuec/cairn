@@ -1,0 +1,3548 @@
+{
+  "date": "2026-11-20",
+  "scope": "531 subsections checked; knowledge-point titles, unchanged numbering, anchors, counts and task states",
+  "changes": {
+    "section": 12,
+    "subsection": 316,
+    "chapter": 35
+  },
+  "named_link_labels": 19,
+  "items": [
+    {
+      "id": "B01:1.1",
+      "kind": "section",
+      "before": "分子如何组成生命",
+      "after": "生命的化学基础与生物大分子",
+      "anchor": "b01-1-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:1.1.2",
+      "kind": "subsection",
+      "before": "四类生物大分子各自承担什么任务",
+      "after": "生物大分子：核酸、蛋白质、糖类与脂质",
+      "anchor": "b01-1-1-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/1.1_分子如何组成生命/1.1.2_四类生物大分子各自承担什么任务",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/1.1_生命的化学基础与生物大分子/1.1.2_生物大分子：核酸、蛋白质、糖类与脂质"
+    },
+    {
+      "id": "B01:1.2.1",
+      "kind": "subsection",
+      "before": "从分子、细胞到个体和种群的生命层级",
+      "after": "生命组织层级：分子、细胞、个体与种群",
+      "anchor": "b01-1-2-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/1.2_从分子走向系统/1.2.1_从分子、细胞到个体和种群的生命层级",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/1.2_从分子走向系统/1.2.1_生命组织层级：分子、细胞、个体与种群"
+    },
+    {
+      "id": "B01:1.3",
+      "kind": "section",
+      "before": "细胞如何建立内外边界",
+      "after": "细胞结构、生物膜与物质运输",
+      "anchor": "b01-1-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:1.3.2",
+      "kind": "subsection",
+      "before": "生物膜与跨膜运输如何建立内外差异",
+      "after": "生物膜结构与跨膜运输",
+      "anchor": "b01-1-3-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/1.3_细胞如何建立内外边界/1.3.2_生物膜与跨膜运输如何建立内外差异",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/1.3_细胞结构、生物膜与物质运输/1.3.2_生物膜结构与跨膜运输"
+    },
+    {
+      "id": "B01:1.3.3",
+      "kind": "subsection",
+      "before": "细胞骨架怎样支持形态与细胞内运输",
+      "after": "细胞骨架、细胞形态与胞内运输",
+      "anchor": "b01-1-3-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/1.3_细胞如何建立内外边界/1.3.3_细胞骨架怎样支持形态与细胞内运输",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/1.3_细胞结构、生物膜与物质运输/1.3.3_细胞骨架、细胞形态与胞内运输"
+    },
+    {
+      "id": "B01:2",
+      "kind": "chapter",
+      "before": "遗传信息如何流动",
+      "after": "遗传信息流与中心法则",
+      "anchor": "b01-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:2.2.1",
+      "kind": "subsection",
+      "before": "转录：以 DNA 为模板合成 RNA",
+      "after": "转录：DNA 模板与 RNA 合成",
+      "anchor": "b01-2-2-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.1_转录：以 DNA 为模板合成 RNA",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.1_转录：DNA 模板与 RNA 合成"
+    },
+    {
+      "id": "B01:2.2.2",
+      "kind": "subsection",
+      "before": "RNA 加工与剪接：转录产物怎样成为成熟 RNA",
+      "after": "RNA 加工：加帽、剪接与尾部加工",
+      "anchor": "b01-2-2-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.2_RNA 加工与剪接：转录产物怎样成为成熟 RNA",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.2_RNA 加工：加帽、剪接与尾部加工"
+    },
+    {
+      "id": "B01:2.2.3",
+      "kind": "subsection",
+      "before": "不编码蛋白的 RNA 如何参与调控",
+      "after": "非编码 RNA 的类型与调控功能",
+      "anchor": "b01-2-2-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.3_不编码蛋白的 RNA 如何参与调控",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.3_非编码 RNA 的类型与调控功能"
+    },
+    {
+      "id": "B01:2.2.4",
+      "kind": "subsection",
+      "before": "翻译：核糖体读取 mRNA 合成多肽",
+      "after": "翻译：核糖体、mRNA 与多肽合成",
+      "anchor": "b01-2-2-4",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.4_翻译：核糖体读取 mRNA 合成多肽",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/2.2_从基因到产物/2.2.4_翻译：核糖体、mRNA 与多肽合成"
+    },
+    {
+      "id": "B01:2.3.1",
+      "kind": "subsection",
+      "before": "中心法则的适用范围与信息流的扩展",
+      "after": "中心法则、逆转录与 RNA 复制",
+      "anchor": "b01-2-3-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/2.3_信息流的边界/2.3.1_中心法则的适用范围与信息流的扩展",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/2.3_信息流的边界/2.3.1_中心法则、逆转录与 RNA 复制"
+    },
+    {
+      "id": "B01:3.1.1",
+      "kind": "subsection",
+      "before": "序列、折叠和功能位点之间有什么联系",
+      "after": "蛋白质序列、折叠与功能位点",
+      "anchor": "b01-3-1-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/3.1_结构与功能的联系/3.1.1_序列、折叠和功能位点之间有什么联系",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/3.1_结构与功能的联系/3.1.1_蛋白质序列、折叠与功能位点"
+    },
+    {
+      "id": "B01:3.2",
+      "kind": "section",
+      "before": "分子之间如何协作",
+      "after": "分子识别与酶催化",
+      "anchor": "b01-3-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:3.2.1",
+      "kind": "subsection",
+      "before": "酶如何把分子识别转化为催化作用",
+      "after": "酶的底物识别与催化作用",
+      "anchor": "b01-3-2-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/3.2_分子之间如何协作/3.2.1_酶如何把分子识别转化为催化作用",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/3.2_分子识别与酶催化/3.2.1_酶的底物识别与催化作用"
+    },
+    {
+      "id": "B01:3.3",
+      "kind": "section",
+      "before": "能量与物质如何循环",
+      "after": "能量代谢与物质转化",
+      "anchor": "b01-3-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:3.3.2",
+      "kind": "subsection",
+      "before": "糖酵解与三羧酸循环如何连接分解代谢",
+      "after": "分解代谢：糖酵解与三羧酸循环",
+      "anchor": "b01-3-3-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/3.3_能量与物质如何循环/3.3.2_糖酵解与三羧酸循环如何连接分解代谢",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/3.3_能量代谢与物质转化/3.3.2_分解代谢：糖酵解与三羧酸循环"
+    },
+    {
+      "id": "B01:3.3.3",
+      "kind": "subsection",
+      "before": "电子传递链如何驱动 ATP 合成",
+      "after": "电子传递链、质子梯度与 ATP 合成",
+      "anchor": "b01-3-3-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/3.3_能量与物质如何循环/3.3.3_电子传递链如何驱动 ATP 合成",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/3.3_能量代谢与物质转化/3.3.3_电子传递链、质子梯度与 ATP 合成"
+    },
+    {
+      "id": "B01:3.3.4",
+      "kind": "subsection",
+      "before": "自养、异养与合成代谢的碳和能量来源",
+      "after": "自养、异养与合成代谢的碳源和能源",
+      "anchor": "b01-3-3-4",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/3.3_能量与物质如何循环/3.3.4_自养、异养与合成代谢的碳和能量来源",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/3.3_能量代谢与物质转化/3.3.4_自养、异养与合成代谢的碳源和能源"
+    },
+    {
+      "id": "B01:3.4",
+      "kind": "section",
+      "before": "细胞如何感知和响应",
+      "after": "细胞信号转导与反馈调控",
+      "anchor": "b01-3-4",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:4.1",
+      "kind": "section",
+      "before": "同一基因组为何产生不同细胞",
+      "after": "细胞类型、基因表达与表观遗传",
+      "anchor": "b01-4-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:4.2",
+      "kind": "section",
+      "before": "生物系统为何不同",
+      "after": "遗传变异与演化机制",
+      "anchor": "b01-4-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:4.2.1",
+      "kind": "subsection",
+      "before": "遗传变异、自然选择与遗传漂变如何产生差异",
+      "after": "遗传变异、自然选择与遗传漂变",
+      "anchor": "b01-4-2-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/4.2_生物系统为何不同/4.2.1_遗传变异、自然选择与遗传漂变如何产生差异",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/4.2_遗传变异与演化机制/4.2.1_遗传变异、自然选择与遗传漂变"
+    },
+    {
+      "id": "B01:4.3",
+      "kind": "section",
+      "before": "细胞与生命如何延续",
+      "after": "细胞增殖、生殖与命运调控",
+      "anchor": "b01-4-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:4.3.3",
+      "kind": "subsection",
+      "before": "干细胞与分化如何形成不同细胞命运",
+      "after": "干细胞、自我更新与细胞分化",
+      "anchor": "b01-4-3-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/4.3_细胞与生命如何延续/4.3.3_干细胞与分化如何形成不同细胞命运",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/4.3_细胞增殖、生殖与命运调控/4.3.3_干细胞、自我更新与细胞分化"
+    },
+    {
+      "id": "B01:4.3.4",
+      "kind": "subsection",
+      "before": "衰老和程序性死亡如何改变细胞群体",
+      "after": "细胞衰老与程序性细胞死亡",
+      "anchor": "b01-4-3-4",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/4.3_细胞与生命如何延续/4.3.4_衰老和程序性死亡如何改变细胞群体",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/4.3_细胞增殖、生殖与命运调控/4.3.4_细胞衰老与程序性细胞死亡"
+    },
+    {
+      "id": "B01:4.4.1",
+      "kind": "subsection",
+      "before": "个体如何维持内环境稳态",
+      "after": "内环境稳态：物质交换与生理反馈",
+      "anchor": "b01-4-4-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.1_个体如何维持内环境稳态",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.1_内环境稳态：物质交换与生理反馈"
+    },
+    {
+      "id": "B01:4.4.2",
+      "kind": "subsection",
+      "before": "神经、内分泌与免疫的系统分工图",
+      "after": "神经、内分泌与免疫系统的分工",
+      "anchor": "b01-4-4-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.2_神经、内分泌与免疫的系统分工图",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.2_神经、内分泌与免疫系统的分工"
+    },
+    {
+      "id": "B01:4.4.3",
+      "kind": "subsection",
+      "before": "细菌、真核微生物与病毒的基本区别",
+      "after": "细菌、真核微生物与病毒的结构和复制",
+      "anchor": "b01-4-4-3",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.3_细菌、真核微生物与病毒的基本区别",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.3_细菌、真核微生物与病毒的结构和复制"
+    },
+    {
+      "id": "B01:4.4.4",
+      "kind": "subsection",
+      "before": "宿主与微生物如何形成共生或感染",
+      "after": "宿主—微生物互作：共生与感染",
+      "anchor": "b01-4-4-4",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.4_宿主与微生物如何形成共生或感染",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/4.4_从个体生理到生命多样性/4.4.4_宿主—微生物互作：共生与感染"
+    },
+    {
+      "id": "B01:5",
+      "kind": "chapter",
+      "before": "如何知道一个生物学结论成立",
+      "after": "生物学测量、实验设计与证据链",
+      "anchor": "b01-5",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md"
+    },
+    {
+      "id": "B01:5.1.1",
+      "kind": "subsection",
+      "before": "序列、结构、表达与表型分别测什么",
+      "after": "生物学测量：序列、结构、表达与表型",
+      "anchor": "b01-5-1-1",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/5.1_观测与干预/5.1.1_序列、结构、表达与表型分别测什么",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/5.1_观测与干预/5.1.1_生物学测量：序列、结构、表达与表型"
+    },
+    {
+      "id": "B01:5.1.2",
+      "kind": "subsection",
+      "before": "从相关到验证：怎样组织一条生物学证据链",
+      "after": "实验设计与证据链：对照、重复、相关与因果",
+      "anchor": "b01-5-1-2",
+      "path": "content/基础知识/生物学/生命科学基础主干/README.md",
+      "old_output_directory": "content/基础知识/生物学/生命科学基础主干/5.1_观测与干预/5.1.2_从相关到验证：怎样组织一条生物学证据链",
+      "new_output_directory": "content/基础知识/生物学/生命科学基础主干/5.1_观测与干预/5.1.2_实验设计与证据链：对照、重复、相关与因果"
+    },
+    {
+      "id": "B02:1.1.2",
+      "kind": "subsection",
+      "before": "一个基因为什么能对应多个转录本和蛋白产物",
+      "after": "基因、转录本与蛋白产物的一对多关系",
+      "anchor": "b02-1-1-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/1.1_基因组实体/1.1.2_一个基因为什么能对应多个转录本和蛋白产物",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/1.1_基因组实体/1.1.2_基因、转录本与蛋白产物的一对多关系"
+    },
+    {
+      "id": "B02:1.2.1",
+      "kind": "subsection",
+      "before": "参考基因组与组装版本如何确定坐标背景",
+      "after": "参考基因组：组装版本与坐标系统",
+      "anchor": "b02-1-2-1",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/1.2_参考序列与坐标/1.2.1_参考基因组与组装版本如何确定坐标背景",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/1.2_参考序列与坐标/1.2.1_参考基因组：组装版本与坐标系统"
+    },
+    {
+      "id": "B02:1.2.2",
+      "kind": "subsection",
+      "before": "单倍型与替代序列怎样补充单一参考",
+      "after": "基因组多样性：单倍型与替代序列",
+      "anchor": "b02-1-2-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/1.2_参考序列与坐标/1.2.2_单倍型与替代序列怎样补充单一参考",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/1.2_参考序列与坐标/1.2.2_基因组多样性：单倍型与替代序列"
+    },
+    {
+      "id": "B02:2",
+      "kind": "chapter",
+      "before": "转录本如何产生",
+      "after": "转录与转录本加工",
+      "anchor": "b02-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md"
+    },
+    {
+      "id": "B02:3",
+      "kind": "chapter",
+      "before": "基因表达如何调控",
+      "after": "基因表达调控机制",
+      "anchor": "b02-3",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md"
+    },
+    {
+      "id": "B02:3.1.2",
+      "kind": "subsection",
+      "before": "染色质开放性如何影响转录可及性",
+      "after": "染色质开放性与转录可及性",
+      "anchor": "b02-3-1-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/3.1_顺式与反式调控/3.1.2_染色质开放性如何影响转录可及性",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/3.1_顺式与反式调控/3.1.2_染色质开放性与转录可及性"
+    },
+    {
+      "id": "B02:3.1.3",
+      "kind": "subsection",
+      "before": "DNA 甲基化与组蛋白修饰如何参与表达调控",
+      "after": "表观调控：DNA 甲基化与组蛋白修饰",
+      "anchor": "b02-3-1-3",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/3.1_顺式与反式调控/3.1.3_DNA 甲基化与组蛋白修饰如何参与表达调控",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/3.1_顺式与反式调控/3.1.3_表观调控：DNA 甲基化与组蛋白修饰"
+    },
+    {
+      "id": "B02:4",
+      "kind": "chapter",
+      "before": "变异如何影响功能",
+      "after": "遗传变异与功能后果",
+      "anchor": "b02-4",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md"
+    },
+    {
+      "id": "B02:4.1.1",
+      "kind": "subsection",
+      "before": "单核苷酸变异和短插入缺失如何改变序列",
+      "after": "短序列变异：单核苷酸变异与插入缺失",
+      "anchor": "b02-4-1-1",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.1_变异的层级/4.1.1_单核苷酸变异和短插入缺失如何改变序列",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.1_变异的层级/4.1.1_短序列变异：单核苷酸变异与插入缺失"
+    },
+    {
+      "id": "B02:4.1.2",
+      "kind": "subsection",
+      "before": "结构变异与拷贝数变化如何改变基因组",
+      "after": "结构变异、拷贝数变化与基因组重排",
+      "anchor": "b02-4-1-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.1_变异的层级/4.1.2_结构变异与拷贝数变化如何改变基因组",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.1_变异的层级/4.1.2_结构变异、拷贝数变化与基因组重排"
+    },
+    {
+      "id": "B02:4.2.1",
+      "kind": "subsection",
+      "before": "编码区变异怎样改变蛋白产物",
+      "after": "编码区变异：密码子改变与蛋白功能后果",
+      "anchor": "b02-4-2-1",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.2_功能与疾病证据/4.2.1_编码区变异怎样改变蛋白产物",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.2_功能与疾病证据/4.2.1_编码区变异：密码子改变与蛋白功能后果"
+    },
+    {
+      "id": "B02:4.2.2",
+      "kind": "subsection",
+      "before": "剪接与调控区变异怎样影响表达",
+      "after": "剪接变异、调控区变异与表达改变",
+      "anchor": "b02-4-2-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.2_功能与疾病证据/4.2.2_剪接与调控区变异怎样影响表达",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.2_功能与疾病证据/4.2.2_剪接变异、调控区变异与表达改变"
+    },
+    {
+      "id": "B02:4.2.3",
+      "kind": "subsection",
+      "before": "关联信号、致病性与功能验证的区别",
+      "after": "遗传关联、致病性证据与功能验证",
+      "anchor": "b02-4-2-3",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.2_功能与疾病证据/4.2.3_关联信号、致病性与功能验证的区别",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/4.2_功能与疾病证据/4.2.3_遗传关联、致病性证据与功能验证"
+    },
+    {
+      "id": "B02:5.1.2",
+      "kind": "subsection",
+      "before": "序列比对如何识别保守与差异",
+      "after": "序列比对：局部比对、全局比对与保守性",
+      "anchor": "b02-5-1-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/5.1_同源关系/5.1.2_序列比对如何识别保守与差异",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/5.1_同源关系/5.1.2_序列比对：局部比对、全局比对与保守性"
+    },
+    {
+      "id": "B02:5.1.3",
+      "kind": "subsection",
+      "before": "系统发育树如何表达演化关系",
+      "after": "系统发育树：拓扑、分支与演化关系",
+      "anchor": "b02-5-1-3",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/5.1_同源关系/5.1.3_系统发育树如何表达演化关系",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/5.1_同源关系/5.1.3_系统发育树：拓扑、分支与演化关系"
+    },
+    {
+      "id": "B02:5.2.2",
+      "kind": "subsection",
+      "before": "跨物种同源映射为何出现一对多和功能迁移风险",
+      "after": "跨物种同源映射：一对多关系与功能迁移风险",
+      "anchor": "b02-5-2-2",
+      "path": "content/基础知识/生物学/基因组与基因调控基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/基因组与基因调控基础/5.2_注释与跨物种分析/5.2.2_跨物种同源映射为何出现一对多和功能迁移风险",
+      "new_output_directory": "content/基础知识/生物学/基因组与基因调控基础/5.2_注释与跨物种分析/5.2.2_跨物种同源映射：一对多关系与功能迁移风险"
+    },
+    {
+      "id": "B03:1.2.2",
+      "kind": "subsection",
+      "before": "结构域与基序如何组织蛋白功能",
+      "after": "蛋白质结构域、序列基序与功能组织",
+      "anchor": "b03-1-2-2",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/1.2_蛋白的组成单元/1.2.2_结构域与基序如何组织蛋白功能",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/1.2_蛋白的组成单元/1.2.2_蛋白质结构域、序列基序与功能组织"
+    },
+    {
+      "id": "B03:1.2.3",
+      "kind": "subsection",
+      "before": "天然无序区与翻译后修饰怎样扩展功能",
+      "after": "天然无序区、翻译后修饰与功能调控",
+      "anchor": "b03-1-2-3",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/1.2_蛋白的组成单元/1.2.3_天然无序区与翻译后修饰怎样扩展功能",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/1.2_蛋白的组成单元/1.2.3_天然无序区、翻译后修饰与功能调控"
+    },
+    {
+      "id": "B03:2.1",
+      "kind": "section",
+      "before": "稳定结构如何形成",
+      "after": "蛋白质折叠与结构稳定性",
+      "anchor": "b03-2-1",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md"
+    },
+    {
+      "id": "B03:2.2.2",
+      "kind": "subsection",
+      "before": "膜环境与溶液条件为什么改变蛋白行为",
+      "after": "膜环境、溶液条件与蛋白稳定性",
+      "anchor": "b03-2-2-2",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/2.2_构象与环境/2.2.2_膜环境与溶液条件为什么改变蛋白行为",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/2.2_构象与环境/2.2.2_膜环境、溶液条件与蛋白稳定性"
+    },
+    {
+      "id": "B03:2.2.3",
+      "kind": "subsection",
+      "before": "蛋白聚集如何与正常折叠竞争",
+      "after": "蛋白质折叠、错误折叠与聚集",
+      "anchor": "b03-2-2-3",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/2.2_构象与环境/2.2.3_蛋白聚集如何与正常折叠竞争",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/2.2_构象与环境/2.2.3_蛋白质折叠、错误折叠与聚集"
+    },
+    {
+      "id": "B03:3",
+      "kind": "chapter",
+      "before": "蛋白质如何发挥功能",
+      "after": "蛋白质功能与分子相互作用",
+      "anchor": "b03-3",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md"
+    },
+    {
+      "id": "B03:3.1.2",
+      "kind": "subsection",
+      "before": "亲和力与特异性分别回答什么问题",
+      "after": "结合亲和力与分子识别特异性",
+      "anchor": "b03-3-1-2",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/3.1_分子识别/3.1.2_亲和力与特异性分别回答什么问题",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/3.1_分子识别/3.1.2_结合亲和力与分子识别特异性"
+    },
+    {
+      "id": "B03:3.1.3",
+      "kind": "subsection",
+      "before": "结合动力学怎样区分结合速度与平衡亲和力",
+      "after": "结合动力学：kon、koff 与平衡解离常数 Kd",
+      "anchor": "b03-3-1-3",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/3.1_分子识别/3.1.3_结合动力学怎样区分结合速度与平衡亲和力",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/3.1_分子识别/3.1.3_结合动力学：kon、koff 与平衡解离常数 Kd"
+    },
+    {
+      "id": "B03:4.1.1",
+      "kind": "subsection",
+      "before": "晶体学、冷冻电镜与核磁的结构证据比较",
+      "after": "实验结构方法：晶体学、冷冻电镜与核磁共振",
+      "anchor": "b03-4-1-1",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/4.1_实验测定/4.1.1_晶体学、冷冻电镜与核磁的结构证据比较",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/4.1_实验测定/4.1.1_实验结构方法：晶体学、冷冻电镜与核磁共振"
+    },
+    {
+      "id": "B03:5",
+      "kind": "chapter",
+      "before": "如何比较与评价结构",
+      "after": "结构比较、几何质量与预测置信度",
+      "anchor": "b03-5",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md"
+    },
+    {
+      "id": "B03:5.1.1",
+      "kind": "subsection",
+      "before": "结构叠合与 RMSD 怎样衡量坐标差异",
+      "after": "结构叠合、原子选择与 RMSD",
+      "anchor": "b03-5-1-1",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.1_几何与一致性/5.1.1_结构叠合与 RMSD 怎样衡量坐标差异",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.1_几何与一致性/5.1.1_结构叠合、原子选择与 RMSD"
+    },
+    {
+      "id": "B03:5.1.2",
+      "kind": "subsection",
+      "before": "TM-score 与 lDDT 如何补充 RMSD",
+      "after": "结构相似性指标：TM-score、lDDT 与 RMSD 对照",
+      "anchor": "b03-5-1-2",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.1_几何与一致性/5.1.2_TM-score 与 lDDT 如何补充 RMSD",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.1_几何与一致性/5.1.2_结构相似性指标：TM-score、lDDT 与 RMSD 对照"
+    },
+    {
+      "id": "B03:5.2.1",
+      "kind": "subsection",
+      "before": "联合读懂 pLDDT、PAE、pTM 与 ipTM",
+      "after": "结构预测置信度：pLDDT、PAE、pTM 与 ipTM",
+      "anchor": "b03-5-2-1",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.2_预测置信度与功能结论/5.2.1_联合读懂 pLDDT、PAE、pTM 与 ipTM",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.2_预测置信度与功能结论/5.2.1_结构预测置信度：pLDDT、PAE、pTM 与 ipTM"
+    },
+    {
+      "id": "B03:5.2.2",
+      "kind": "subsection",
+      "before": "低置信结构怎样形成可验证的生物学假设",
+      "after": "低置信结构：天然无序、多构象与实验验证",
+      "anchor": "b03-5-2-2",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.2_预测置信度与功能结论/5.2.2_低置信结构怎样形成可验证的生物学假设",
+      "new_output_directory": "content/基础知识/生物学/蛋白质结构与功能基础/5.2_预测置信度与功能结论/5.2.2_低置信结构：天然无序、多构象与实验验证"
+    },
+    {
+      "id": "B04:1",
+      "kind": "chapter",
+      "before": "细胞为何不同",
+      "after": "细胞身份、状态与组学测量",
+      "anchor": "b04-1",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md"
+    },
+    {
+      "id": "B04:1.2.1",
+      "kind": "subsection",
+      "before": "转录组、蛋白组和表观组的测量对象对照",
+      "after": "组学测量对象：转录组、蛋白组与表观组",
+      "anchor": "b04-1-2-1",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/1.2_分子层次/1.2.1_转录组、蛋白组和表观组的测量对象对照",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/1.2_分子层次/1.2.1_组学测量对象：转录组、蛋白组与表观组"
+    },
+    {
+      "id": "B04:1.2.2",
+      "kind": "subsection",
+      "before": "bulk、单细胞与单核 RNA 测量如何选择",
+      "after": "RNA 测序对象：bulk、单细胞与单核",
+      "anchor": "b04-1-2-2",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/1.2_分子层次/1.2.2_bulk、单细胞与单核 RNA 测量如何选择",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/1.2_分子层次/1.2.2_RNA 测序对象：bulk、单细胞与单核"
+    },
+    {
+      "id": "B04:1.2.3",
+      "kind": "subsection",
+      "before": "空间测量增加了什么信息和误差来源",
+      "after": "空间组学：空间坐标、测量分辨率与误差来源",
+      "anchor": "b04-1-2-3",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/1.2_分子层次/1.2.3_空间测量增加了什么信息和误差来源",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/1.2_分子层次/1.2.3_空间组学：空间坐标、测量分辨率与误差来源"
+    },
+    {
+      "id": "B04:2.2.2",
+      "kind": "subsection",
+      "before": "稀疏性、低计数与未检出不等于不表达",
+      "after": "单细胞计数稀疏性、低计数与未检出",
+      "anchor": "b04-2-2-2",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/2.2_数据对象与观测偏差/2.2.2_稀疏性、低计数与未检出不等于不表达",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/2.2_数据对象与观测偏差/2.2.2_单细胞计数稀疏性、低计数与未检出"
+    },
+    {
+      "id": "B04:2.2.3",
+      "kind": "subsection",
+      "before": "怎样识别低质量细胞与设置质控边界",
+      "after": "单细胞质控：检测基因数、线粒体比例与阈值",
+      "anchor": "b04-2-2-3",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/2.2_数据对象与观测偏差/2.2.3_怎样识别低质量细胞与设置质控边界",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/2.2_数据对象与观测偏差/2.2.3_单细胞质控：检测基因数、线粒体比例与阈值"
+    },
+    {
+      "id": "B04:2.2.4",
+      "kind": "subsection",
+      "before": "双细胞与环境 RNA 如何污染表达信号",
+      "after": "表达污染：双细胞与环境 RNA",
+      "anchor": "b04-2-2-4",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/2.2_数据对象与观测偏差/2.2.4_双细胞与环境 RNA 如何污染表达信号",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/2.2_数据对象与观测偏差/2.2.4_表达污染：双细胞与环境 RNA"
+    },
+    {
+      "id": "B04:3.1.1",
+      "kind": "subsection",
+      "before": "文库大小、归一化和对数变换怎样改变表达值",
+      "after": "表达预处理：文库大小、归一化与对数变换",
+      "anchor": "b04-3-1-1",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.1_表达预处理/3.1.1_文库大小、归一化和对数变换怎样改变表达值",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.1_表达预处理/3.1.1_表达预处理：文库大小、归一化与对数变换"
+    },
+    {
+      "id": "B04:3.1.2",
+      "kind": "subsection",
+      "before": "高变基因为什么用于特征选择",
+      "after": "高变基因筛选：均值—方差关系与特征选择",
+      "anchor": "b04-3-1-2",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.1_表达预处理/3.1.2_高变基因为什么用于特征选择",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.1_表达预处理/3.1.2_高变基因筛选：均值—方差关系与特征选择"
+    },
+    {
+      "id": "B04:3.2.1",
+      "kind": "subsection",
+      "before": "PCA 和邻接图怎样表示细胞关系",
+      "after": "细胞关系表示：PCA 降维与邻接图",
+      "anchor": "b04-3-2-1",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.1_PCA 和邻接图怎样表示细胞关系",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.1_细胞关系表示：PCA 降维与邻接图"
+    },
+    {
+      "id": "B04:3.2.2",
+      "kind": "subsection",
+      "before": "聚类与 UMAP 怎样被联合解读",
+      "after": "细胞聚类与 UMAP 可视化",
+      "anchor": "b04-3-2-2",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.2_聚类与 UMAP 怎样被联合解读",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.2_细胞聚类与 UMAP 可视化"
+    },
+    {
+      "id": "B04:3.2.3",
+      "kind": "subsection",
+      "before": "标记基因怎样支持细胞类型注释",
+      "after": "标记基因组合与细胞类型注释",
+      "anchor": "b04-3-2-3",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.3_标记基因怎样支持细胞类型注释",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.3_标记基因组合与细胞类型注释"
+    },
+    {
+      "id": "B04:3.2.4",
+      "kind": "subsection",
+      "before": "参考映射如何处理未知和不确定细胞类型",
+      "after": "参考映射：标签层级、未知类型与注释置信度",
+      "anchor": "b04-3-2-4",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.4_参考映射如何处理未知和不确定细胞类型",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/3.2_细胞关系与注释/3.2.4_参考映射：标签层级、未知类型与注释置信度"
+    },
+    {
+      "id": "B04:4",
+      "kind": "chapter",
+      "before": "如何比较细胞群体",
+      "after": "细胞群体比较与差异分析",
+      "anchor": "b04-4",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md"
+    },
+    {
+      "id": "B04:4.2.1",
+      "kind": "subsection",
+      "before": "差异表达如何同时报告效应量与统计证据",
+      "after": "差异表达：效应量、假设检验与 FDR",
+      "anchor": "b04-4-2-1",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/4.2_差异与功能解释/4.2.1_差异表达如何同时报告效应量与统计证据",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/4.2_差异与功能解释/4.2.1_差异表达：效应量、假设检验与 FDR"
+    },
+    {
+      "id": "B04:4.2.2",
+      "kind": "subsection",
+      "before": "细胞组成变化和细胞内表达变化如何区分",
+      "after": "细胞组成变化与细胞内表达变化",
+      "anchor": "b04-4-2-2",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/4.2_差异与功能解释/4.2.2_细胞组成变化和细胞内表达变化如何区分",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/4.2_差异与功能解释/4.2.2_细胞组成变化与细胞内表达变化"
+    },
+    {
+      "id": "B04:5.1.1",
+      "kind": "subsection",
+      "before": "CRISPR 扰动如何连接靶基因、guide 和细胞响应",
+      "after": "CRISPR 扰动：靶基因、guide 与细胞响应",
+      "anchor": "b04-5-1-1",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.1_扰动实验/5.1.1_CRISPR 扰动如何连接靶基因、guide 和细胞响应",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.1_扰动实验/5.1.1_CRISPR 扰动：靶基因、guide 与细胞响应"
+    },
+    {
+      "id": "B04:5.1.2",
+      "kind": "subsection",
+      "before": "怎样解释药物的剂量、时间与细胞背景响应",
+      "after": "药物扰动：剂量、时间、细胞背景与匹配对照",
+      "anchor": "b04-5-1-2",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.1_扰动实验/5.1.2_怎样解释药物的剂量、时间与细胞背景响应",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.1_扰动实验/5.1.2_药物扰动：剂量、时间、细胞背景与匹配对照"
+    },
+    {
+      "id": "B04:5.2.1",
+      "kind": "subsection",
+      "before": "拟时序、轨迹与谱系追踪各提供什么证据",
+      "after": "细胞动态证据：拟时序、状态轨迹与谱系追踪",
+      "anchor": "b04-5-2-1",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.2_状态转变的证据/5.2.1_拟时序、轨迹与谱系追踪各提供什么证据",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.2_状态转变的证据/5.2.1_细胞动态证据：拟时序、状态轨迹与谱系追踪"
+    },
+    {
+      "id": "B04:5.2.2",
+      "kind": "subsection",
+      "before": "从剪接计数到 RNA velocity：动力学假设是什么",
+      "after": "RNA velocity：剪接计数与转录动力学假设",
+      "anchor": "b04-5-2-2",
+      "path": "content/基础知识/生物学/细胞与组学测量基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.2_状态转变的证据/5.2.2_从剪接计数到 RNA velocity：动力学假设是什么",
+      "new_output_directory": "content/基础知识/生物学/细胞与组学测量基础/5.2_状态转变的证据/5.2.2_RNA velocity：剪接计数与转录动力学假设"
+    },
+    {
+      "id": "B05:1",
+      "kind": "chapter",
+      "before": "免疫系统如何识别对象",
+      "after": "免疫识别与细胞分工",
+      "anchor": "b05-1",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md"
+    },
+    {
+      "id": "B05:1.1.2",
+      "kind": "subsection",
+      "before": "B 细胞、抗体与体液免疫如何协作",
+      "after": "B 细胞、抗体生成与体液免疫",
+      "anchor": "b05-1-1-2",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/1.1_免疫分工/1.1.2_B 细胞、抗体与体液免疫如何协作",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/1.1_免疫分工/1.1.2_B 细胞、抗体生成与体液免疫"
+    },
+    {
+      "id": "B05:1.1.3",
+      "kind": "subsection",
+      "before": "T 细胞与抗原呈递如何完成细胞识别",
+      "after": "T 细胞、MHC 与抗原呈递",
+      "anchor": "b05-1-1-3",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/1.1_免疫分工/1.1.3_T 细胞与抗原呈递如何完成细胞识别",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/1.1_免疫分工/1.1.3_T 细胞、MHC 与抗原呈递"
+    },
+    {
+      "id": "B05:4.1.1",
+      "kind": "subsection",
+      "before": "抗体结合以后如何产生阻断、激动或效应功能",
+      "after": "抗体功能：阻断、激动与效应作用",
+      "anchor": "b05-4-1-1",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/4.1_改善识别与功能/4.1.1_抗体结合以后如何产生阻断、激动或效应功能",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/4.1_改善识别与功能/4.1.1_抗体功能：阻断、激动与效应作用"
+    },
+    {
+      "id": "B05:4.2.1",
+      "kind": "subsection",
+      "before": "抗体稳定性与聚集、溶解性如何共同评价",
+      "after": "抗体可开发性：稳定性、聚集与溶解性",
+      "anchor": "b05-4-2-1",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/4.2_改善可开发性/4.2.1_抗体稳定性与聚集、溶解性如何共同评价",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/4.2_改善可开发性/4.2.1_抗体可开发性：稳定性、聚集与溶解性"
+    },
+    {
+      "id": "B05:4.2.2",
+      "kind": "subsection",
+      "before": "抗体表达与纯化为什么会形成开发瓶颈",
+      "after": "抗体表达、纯化与产量限制",
+      "anchor": "b05-4-2-2",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/4.2_改善可开发性/4.2.2_抗体表达与纯化为什么会形成开发瓶颈",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/4.2_改善可开发性/4.2.2_抗体表达、纯化与产量限制"
+    },
+    {
+      "id": "B05:5",
+      "kind": "chapter",
+      "before": "实验如何支持选择",
+      "after": "抗体发现、实验测量与候选筛选",
+      "anchor": "b05-5",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md"
+    },
+    {
+      "id": "B05:5.1.1",
+      "kind": "subsection",
+      "before": "免疫、杂交瘤与单 B 细胞发现路线",
+      "after": "抗体发现：免疫、杂交瘤与单 B 细胞技术",
+      "anchor": "b05-5-1-1",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.1_发现与筛选/5.1.1_免疫、杂交瘤与单 B 细胞发现路线",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.1_发现与筛选/5.1.1_抗体发现：免疫、杂交瘤与单 B 细胞技术"
+    },
+    {
+      "id": "B05:5.1.2",
+      "kind": "subsection",
+      "before": "展示文库如何筛选具有目标性质的抗体",
+      "after": "抗体展示文库、选择压力与富集筛选",
+      "anchor": "b05-5-1-2",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.1_发现与筛选/5.1.2_展示文库如何筛选具有目标性质的抗体",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.1_发现与筛选/5.1.2_抗体展示文库、选择压力与富集筛选"
+    },
+    {
+      "id": "B05:5.2.1",
+      "kind": "subsection",
+      "before": "ELISA 与流式怎样提供结合和特异性证据",
+      "after": "终点结合测量：ELISA、流式与特异性对照",
+      "anchor": "b05-5-2-1",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.1_ELISA 与流式怎样提供结合和特异性证据",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.1_终点结合测量：ELISA、流式与特异性对照"
+    },
+    {
+      "id": "B05:5.2.2",
+      "kind": "subsection",
+      "before": "SPR 与 BLI 怎样测量结合动力学",
+      "after": "结合动力学测量：SPR、BLI 与曲线拟合",
+      "anchor": "b05-5-2-2",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.2_SPR 与 BLI 怎样测量结合动力学",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.2_结合动力学测量：SPR、BLI 与曲线拟合"
+    },
+    {
+      "id": "B05:5.2.3",
+      "kind": "subsection",
+      "before": "pI、表面电荷与疏水性怎样支持理化评价",
+      "after": "抗体理化性质：pI、表面电荷与疏水性",
+      "anchor": "b05-5-2-3",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.3_pI、表面电荷与疏水性怎样支持理化评价",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.3_抗体理化性质：pI、表面电荷与疏水性"
+    },
+    {
+      "id": "B05:5.2.4",
+      "kind": "subsection",
+      "before": "Tm 与热稳定性实验怎样被解读",
+      "after": "热稳定性测量：Tm、热变性与功能保持",
+      "anchor": "b05-5-2-4",
+      "path": "content/基础知识/生物学/免疫与抗体生物学基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.4_Tm 与热稳定性实验怎样被解读",
+      "new_output_directory": "content/基础知识/生物学/免疫与抗体生物学基础/5.2_实验读数/5.2.4_热稳定性测量：Tm、热变性与功能保持"
+    },
+    {
+      "id": "B06:1",
+      "kind": "chapter",
+      "before": "如何描述一个分子",
+      "after": "分子化学身份与计算表示",
+      "anchor": "b06-1",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md"
+    },
+    {
+      "id": "B06:1.1.2",
+      "kind": "subsection",
+      "before": "立体异构与手性如何影响分子识别",
+      "after": "分子立体化学：对映异构与手性识别",
+      "anchor": "b06-1-1-2",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/1.1_化学身份/1.1.2_立体异构与手性如何影响分子识别",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/1.1_化学身份/1.1.2_分子立体化学：对映异构与手性识别"
+    },
+    {
+      "id": "B06:1.1.3",
+      "kind": "subsection",
+      "before": "质子化、互变异构与盐形式如何改变分子身份",
+      "after": "分子形态：质子化、互变异构与盐形式",
+      "anchor": "b06-1-1-3",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/1.1_化学身份/1.1.3_质子化、互变异构与盐形式如何改变分子身份",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/1.1_化学身份/1.1.3_分子形态：质子化、互变异构与盐形式"
+    },
+    {
+      "id": "B06:2",
+      "kind": "chapter",
+      "before": "分子性质如何影响生物作用",
+      "after": "分子理化性质与生物可及性",
+      "anchor": "b06-2",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md"
+    },
+    {
+      "id": "B06:2.1.1",
+      "kind": "subsection",
+      "before": "pKa 与电荷状态怎样依赖溶液 pH",
+      "after": "酸碱平衡：pKa、溶液 pH 与电荷状态",
+      "anchor": "b06-2-1-1",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/2.1_物理化学性质/2.1.1_pKa 与电荷状态怎样依赖溶液 pH",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/2.1_物理化学性质/2.1.1_酸碱平衡：pKa、溶液 pH 与电荷状态"
+    },
+    {
+      "id": "B06:2.1.2",
+      "kind": "subsection",
+      "before": "logP、logD 与溶解度怎样共同影响暴露",
+      "after": "分配与溶解性质：logP、logD 与溶解度",
+      "anchor": "b06-2-1-2",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/2.1_物理化学性质/2.1.2_logP、logD 与溶解度怎样共同影响暴露",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/2.1_物理化学性质/2.1.2_分配与溶解性质：logP、logD 与溶解度"
+    },
+    {
+      "id": "B06:2.2.1",
+      "kind": "subsection",
+      "before": "ADMET 五类问题在药物发现中的位置",
+      "after": "ADMET：吸收、分布、代谢、排泄与毒性",
+      "anchor": "b06-2-2-1",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/2.2_生物可及性/2.2.1_ADMET 五类问题在药物发现中的位置",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/2.2_生物可及性/2.2.1_ADMET：吸收、分布、代谢、排泄与毒性"
+    },
+    {
+      "id": "B06:3.1.1",
+      "kind": "subsection",
+      "before": "Kd 与 Ki 怎样表达结合和平衡抑制",
+      "after": "平衡结合与抑制：Kd、Ki 及实验假设",
+      "anchor": "b06-3-1-1",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/3.1_结合与效应/3.1.1_Kd 与 Ki 怎样表达结合和平衡抑制",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/3.1_结合与效应/3.1.1_平衡结合与抑制：Kd、Ki 及实验假设"
+    },
+    {
+      "id": "B06:3.1.2",
+      "kind": "subsection",
+      "before": "IC50、EC50 与剂量响应曲线怎样被解读",
+      "after": "剂量响应：IC50、EC50 与曲线判读",
+      "anchor": "b06-3-1-2",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/3.1_结合与效应/3.1.2_IC50、EC50 与剂量响应曲线怎样被解读",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/3.1_结合与效应/3.1.2_剂量响应：IC50、EC50 与曲线判读"
+    },
+    {
+      "id": "B06:3.1.3",
+      "kind": "subsection",
+      "before": "从剂量响应区分亲和力、效能和实验干扰",
+      "after": "药理读数：亲和力、效能与检测干扰",
+      "anchor": "b06-3-1-3",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/3.1_结合与效应/3.1.3_从剂量响应区分亲和力、效能和实验干扰",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/3.1_结合与效应/3.1.3_药理读数：亲和力、效能与检测干扰"
+    },
+    {
+      "id": "B06:4.1.1",
+      "kind": "subsection",
+      "before": "构效关系与活性悬崖如何指导先导优化",
+      "after": "构效关系（SAR）、活性悬崖与先导优化",
+      "anchor": "b06-4-1-1",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/4.1_设计目标/4.1.1_构效关系与活性悬崖如何指导先导优化",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/4.1_设计目标/4.1.1_构效关系（SAR）、活性悬崖与先导优化"
+    },
+    {
+      "id": "B06:4.1.2",
+      "kind": "subsection",
+      "before": "多参数优化怎样平衡活性、选择性和可开发性",
+      "after": "多参数优化：活性、选择性与可开发性权衡",
+      "anchor": "b06-4-1-2",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/4.1_设计目标/4.1.2_多参数优化怎样平衡活性、选择性和可开发性",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/4.1_设计目标/4.1.2_多参数优化：活性、选择性与可开发性权衡"
+    },
+    {
+      "id": "B06:5.2.2",
+      "kind": "subsection",
+      "before": "怎样用毒性、溶血和稳定性评价抗菌肽选择性",
+      "after": "抗菌肽选择性：毒性、溶血与蛋白酶稳定性",
+      "anchor": "b06-5-2-2",
+      "path": "content/基础知识/生物学/化学生物学与药物发现基础/README.md",
+      "old_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/5.2_功能肽的评价/5.2.2_怎样用毒性、溶血和稳定性评价抗菌肽选择性",
+      "new_output_directory": "content/基础知识/生物学/化学生物学与药物发现基础/5.2_功能肽的评价/5.2.2_抗菌肽选择性：毒性、溶血与蛋白酶稳定性"
+    },
+    {
+      "id": "D01:1.1.1",
+      "kind": "subsection",
+      "before": "怎样从物种名称追溯 NCBI 分类单元",
+      "after": "NCBI Taxonomy：物种名称、taxid、分类层级与历史别名",
+      "anchor": "d01-1-1-1",
+      "path": "content/专题知识/数据资源/基因组与遗传变异原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/1.1_NCBI Taxonomy/1.1.1_怎样从物种名称追溯 NCBI 分类单元",
+      "new_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/1.1_NCBI Taxonomy/1.1.1_NCBI Taxonomy：物种名称、taxid、分类层级与历史别名"
+    },
+    {
+      "id": "D01:2.1.1",
+      "kind": "subsection",
+      "before": "怎样沿 NCBI Gene 条目找到转录本与蛋白",
+      "after": "NCBI Gene：GeneID、转录本、蛋白产物与交叉引用",
+      "anchor": "d01-2-1-1",
+      "path": "content/专题知识/数据资源/基因组与遗传变异原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/2.1_NCBI Gene/2.1.1_怎样沿 NCBI Gene 条目找到转录本与蛋白",
+      "new_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/2.1_NCBI Gene/2.1.1_NCBI Gene：GeneID、转录本、蛋白产物与交叉引用"
+    },
+    {
+      "id": "D01:2.2.1",
+      "kind": "subsection",
+      "before": "怎样读懂一个 GENCODE 基因的转录本注释",
+      "after": "GENCODE 注释：基因、转录本、外显子、编码区与版本绑定",
+      "anchor": "d01-2-2-1",
+      "path": "content/专题知识/数据资源/基因组与遗传变异原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/2.2_GENCODE/2.2.1_怎样读懂一个 GENCODE 基因的转录本注释",
+      "new_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/2.2_GENCODE/2.2.1_GENCODE 注释：基因、转录本、外显子、编码区与版本绑定"
+    },
+    {
+      "id": "D01:3.1.1",
+      "kind": "subsection",
+      "before": "BioProject、BioSample 与 SRA 怎样串成研究来源链",
+      "after": "研究来源链：BioProject、BioSample、SRA 实验与运行记录",
+      "anchor": "d01-3-1-1",
+      "path": "content/专题知识/数据资源/基因组与遗传变异原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/3.1_BioProject 与 BioSample/3.1.1_BioProject、BioSample 与 SRA 怎样串成研究来源链",
+      "new_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/3.1_BioProject 与 BioSample/3.1.1_研究来源链：BioProject、BioSample、SRA 实验与运行记录"
+    },
+    {
+      "id": "D01:4.1.1",
+      "kind": "subsection",
+      "before": "怎样读懂 ClinVar 中一个变异的身份和坐标",
+      "after": "ClinVar 变异身份：等位基因、VCV/RCV/SCV 与组装坐标",
+      "anchor": "d01-4-1-1",
+      "path": "content/专题知识/数据资源/基因组与遗传变异原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/4.1_ClinVar 的实体/4.1.1_怎样读懂 ClinVar 中一个变异的身份和坐标",
+      "new_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/4.1_ClinVar 的实体/4.1.1_ClinVar 变异身份：等位基因、VCV／RCV／SCV 与组装坐标"
+    },
+    {
+      "id": "D01:4.2.1",
+      "kind": "subsection",
+      "before": "ClinVar 的提交、审查与冲突怎样形成临床证据",
+      "after": "ClinVar 临床证据：提交断言、审查等级与解释冲突",
+      "anchor": "d01-4-2-1",
+      "path": "content/专题知识/数据资源/基因组与遗传变异原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/4.2_证据与争议/4.2.1_ClinVar 的提交、审查与冲突怎样形成临床证据",
+      "new_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/4.2_证据与争议/4.2.1_ClinVar 临床证据：提交断言、审查等级与解释冲突"
+    },
+    {
+      "id": "D01:5.1.2",
+      "kind": "subsection",
+      "before": "跨组装和转录本的变异解释怎样保持一致",
+      "after": "跨组装变异解释：坐标转换、转录本选择与功能后果",
+      "anchor": "d01-5-1-2",
+      "path": "content/专题知识/数据资源/基因组与遗传变异原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/5.1_标识与坐标/5.1.2_跨组装和转录本的变异解释怎样保持一致",
+      "new_output_directory": "content/专题知识/数据资源/基因组与遗传变异原始资源/5.1_标识与坐标/5.1.2_跨组装变异解释：坐标转换、转录本选择与功能后果"
+    },
+    {
+      "id": "D02:1.1.1",
+      "kind": "subsection",
+      "before": "怎样读懂 UniProt 条目的序列、功能与证据",
+      "after": "UniProt 条目：序列、异构体、功能注释与证据等级",
+      "anchor": "d02-1-1-1",
+      "path": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/1.1_UniProtKB/1.1.1_怎样读懂 UniProt 条目的序列、功能与证据",
+      "new_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/1.1_UniProtKB/1.1.1_UniProt 条目：序列、异构体、功能注释与证据等级"
+    },
+    {
+      "id": "D02:2.1.1",
+      "kind": "subsection",
+      "before": "UniRef 怎样用不同相似度形成非冗余序列簇",
+      "after": "UniRef 序列聚类：相似度阈值、代表序列与簇成员",
+      "anchor": "d02-2-1-1",
+      "path": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/2.1_UniRef/2.1.1_UniRef 怎样用不同相似度形成非冗余序列簇",
+      "new_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/2.1_UniRef/2.1.1_UniRef 序列聚类：相似度阈值、代表序列与簇成员"
+    },
+    {
+      "id": "D02:3.1.1",
+      "kind": "subsection",
+      "before": "怎样用 Pfam 的 profile HMM 解释结构域命中",
+      "after": "Pfam 结构域注释：profile HMM、家族、clan 与命中区间",
+      "anchor": "d02-3-1-1",
+      "path": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/3.1_Pfam/3.1.1_怎样用 Pfam 的 profile HMM 解释结构域命中",
+      "new_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/3.1_Pfam/3.1.1_Pfam 结构域注释：profile HMM、家族、clan 与命中区间"
+    },
+    {
+      "id": "D02:3.2.1",
+      "kind": "subsection",
+      "before": "InterPro 怎样整合成员签名并支持功能解释",
+      "after": "InterPro 注释整合：成员签名、条目层级与 GO 映射",
+      "anchor": "d02-3-2-1",
+      "path": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/3.2_InterPro/3.2.1_InterPro 怎样整合成员签名并支持功能解释",
+      "new_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/3.2_InterPro/3.2.1_InterPro 注释整合：成员签名、条目层级与 GO 映射"
+    },
+    {
+      "id": "D02:4.1.1",
+      "kind": "subsection",
+      "before": "PDB 中的条目、实体、链与组装体怎样对应实验结构",
+      "after": "PDB 实验结构：条目、实体、链、组装体与坐标质量",
+      "anchor": "d02-4-1-1",
+      "path": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/4.1_实验结构：PDB/4.1.1_PDB 中的条目、实体、链与组装体怎样对应实验结构",
+      "new_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/4.1_实验结构：PDB/4.1.1_PDB 实验结构：条目、实体、链、组装体与坐标质量"
+    },
+    {
+      "id": "D02:4.2.1",
+      "kind": "subsection",
+      "before": "怎样读取 AlphaFold DB 的预测结构及其来源边界",
+      "after": "AlphaFold DB：预测模型、序列关联、版本与置信度",
+      "anchor": "d02-4-2-1",
+      "path": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/4.2_预测结构：AlphaFold DB/4.2.1_怎样读取 AlphaFold DB 的预测结构及其来源边界",
+      "new_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/4.2_预测结构：AlphaFold DB/4.2.1_AlphaFold DB：预测模型、序列关联、版本与置信度"
+    },
+    {
+      "id": "D02:5.1.1",
+      "kind": "subsection",
+      "before": "怎样把蛋白序列、结构域和结构残基对应起来",
+      "after": "蛋白资源映射：序列比对、结构域区间与结构残基编号",
+      "anchor": "d02-5-1-1",
+      "path": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/5.1_匹配不同层级/5.1.1_怎样把蛋白序列、结构域和结构残基对应起来",
+      "new_output_directory": "content/专题知识/数据资源/蛋白质序列家族与结构原始资源/5.1_匹配不同层级/5.1.1_蛋白资源映射：序列比对、结构域区间与结构残基编号"
+    },
+    {
+      "id": "D03:1.1.1",
+      "kind": "subsection",
+      "before": "怎样辨认单细胞资源的测量、处理与来源层级",
+      "after": "单细胞资源层级：测序读段、计数矩阵、元数据与来源血缘",
+      "anchor": "d03-1-1-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/1.1_资源定位/1.1.1_怎样辨认单细胞资源的测量、处理与来源层级",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/1.1_资源定位/1.1.1_单细胞资源层级：测序读段、计数矩阵、元数据与来源血缘"
+    },
+    {
+      "id": "D03:2.1.1",
+      "kind": "subsection",
+      "before": "从公共研究到统一重处理的细胞计数集合",
+      "after": "scBaseCount：公共测序研究与统一重处理流程",
+      "anchor": "d03-2-1-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.1_scBaseCount 的原始发布/2.1.1_从公共研究到统一重处理的细胞计数集合",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.1_scBaseCount 的原始发布/2.1.1_scBaseCount：公共测序研究与统一重处理流程"
+    },
+    {
+      "id": "D03:2.1.2",
+      "kind": "subsection",
+      "before": "怎样确认 scBaseCount 的发布与计数量化对象",
+      "after": "scBaseCount 发布产品：物种、样本、量化策略与版本",
+      "anchor": "d03-2-1-2",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.1_scBaseCount 的原始发布/2.1.2_怎样确认 scBaseCount 的发布与计数量化对象",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.1_scBaseCount 的原始发布/2.1.2_scBaseCount 发布产品：物种、样本、量化策略与版本"
+    },
+    {
+      "id": "D03:2.2.1",
+      "kind": "subsection",
+      "before": "scBaseCount 的 Velocyto 计数怎样衔接速度分析",
+      "after": "scBaseCount Velocyto：剪接计数层、X 矩阵与速度分析边界",
+      "anchor": "d03-2-2-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.2_scBaseCount 的 Velocyto 产品/2.2.1_scBaseCount 的 Velocyto 计数怎样衔接速度分析",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.2_scBaseCount 的 Velocyto 产品/2.2.1_scBaseCount Velocyto：剪接计数层、X 矩阵与速度分析边界"
+    },
+    {
+      "id": "D03:2.3.1",
+      "kind": "subsection",
+      "before": "CELLxGENE 的 collection、dataset 与 Census 怎样分工",
+      "after": "CELLxGENE：collection、dataset、策展注释与 Census",
+      "anchor": "d03-2-3-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.3_CELLxGENE Discover/2.3.1_CELLxGENE 的 collection、dataset 与 Census 怎样分工",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/2.3_CELLxGENE Discover/2.3.1_CELLxGENE：collection、dataset、策展注释与 Census"
+    },
+    {
+      "id": "D03:3.1.1",
+      "kind": "subsection",
+      "before": "scPerturb 怎样整理不同原研究的扰动数据",
+      "after": "scPerturb：原研究整合、扰动类型与实验异质性",
+      "anchor": "d03-3-1-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/3.1_资源与实验异质性/3.1.1_scPerturb 怎样整理不同原研究的扰动数据",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/3.1_资源与实验异质性/3.1.1_scPerturb：原研究整合、扰动类型与实验异质性"
+    },
+    {
+      "id": "D03:3.2.1",
+      "kind": "subsection",
+      "before": "怎样读懂 scPerturb 的扰动标签、条件和对照",
+      "after": "scPerturb 注释：guide、靶基因、实验条件与对照",
+      "anchor": "d03-3-2-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/3.2_条件与矩阵/3.2.1_怎样读懂 scPerturb 的扰动标签、条件和对照",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/3.2_条件与矩阵/3.2.1_scPerturb 注释：guide、靶基因、实验条件与对照"
+    },
+    {
+      "id": "D03:3.3.1",
+      "kind": "subsection",
+      "before": "怎样追溯 scPerturb 的版本和原研究设计",
+      "after": "scPerturb 数据溯源：归档版本、原研究与协议可比性",
+      "anchor": "d03-3-3-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/3.3_版本与回溯/3.3.1_怎样追溯 scPerturb 的版本和原研究设计",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/3.3_版本与回溯/3.3.1_scPerturb 数据溯源：归档版本、原研究与协议可比性"
+    },
+    {
+      "id": "D03:4.1.1",
+      "kind": "subsection",
+      "before": "Tahoe-100M 如何通过混合细胞系设计药物扰动",
+      "after": "Tahoe-100M 实验设计：混合细胞系、同孔给药与身份解卷积",
+      "anchor": "d03-4-1-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/4.1_实验与资源实体/4.1.1_Tahoe-100M 如何通过混合细胞系设计药物扰动",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/4.1_实验与资源实体/4.1.1_Tahoe-100M 实验设计：混合细胞系、同孔给药与身份解卷积"
+    },
+    {
+      "id": "D03:4.2.1",
+      "kind": "subsection",
+      "before": "Tahoe 的细胞注释、表达矩阵与覆盖范围怎样对应",
+      "after": "Tahoe-100M 发布产品：细胞注释、表达矩阵与覆盖范围",
+      "anchor": "d03-4-2-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/4.2_官方发布的数据产品/4.2.1_Tahoe 的细胞注释、表达矩阵与覆盖范围怎样对应",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/4.2_官方发布的数据产品/4.2.1_Tahoe-100M 发布产品：细胞注释、表达矩阵与覆盖范围"
+    },
+    {
+      "id": "D03:4.2.2",
+      "kind": "subsection",
+      "before": "伪 bulk、差异分析产物和比较定义",
+      "after": "Tahoe-100M 分析产物：伪 bulk、差异表达与比较定义",
+      "anchor": "d03-4-2-2",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/4.2_官方发布的数据产品/4.2.2_伪 bulk、差异分析产物和比较定义",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/4.2_官方发布的数据产品/4.2.2_Tahoe-100M 分析产物：伪 bulk、差异表达与比较定义"
+    },
+    {
+      "id": "D03:5.1.1",
+      "kind": "subsection",
+      "before": "图谱与扰动资源分别能支撑哪些学习任务",
+      "after": "资源任务适配：图谱表征、细胞注释与扰动响应预测",
+      "anchor": "d03-5-1-1",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/5.1_三类科学问题/5.1.1_图谱与扰动资源分别能支撑哪些学习任务",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/5.1_三类科学问题/5.1.1_资源任务适配：图谱表征、细胞注释与扰动响应预测"
+    },
+    {
+      "id": "D03:5.2.2",
+      "kind": "subsection",
+      "before": "跨研究合并前怎样核对来源、标签与重复",
+      "after": "跨研究数据整合：来源核对、标签语义与重复样本",
+      "anchor": "d03-5-2-2",
+      "path": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/5.2_可比性检查/5.2.2_跨研究合并前怎样核对来源、标签与重复",
+      "new_output_directory": "content/专题知识/数据资源/单细胞图谱与扰动原始资源/5.2_可比性检查/5.2.2_跨研究数据整合：来源核对、标签语义与重复样本"
+    },
+    {
+      "id": "D04:1.1.1",
+      "kind": "subsection",
+      "before": "GO 三个分支与注释对象怎样共同描述功能",
+      "after": "GO 功能体系：分子功能、生物过程、细胞组分与注释对象",
+      "anchor": "d04-1-1-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/1.1_GO 的三个维度/1.1.1_GO 三个分支与注释对象怎样共同描述功能",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/1.1_GO 的三个维度/1.1.1_GO 功能体系：分子功能、生物过程、细胞组分与注释对象"
+    },
+    {
+      "id": "D04:1.2.1",
+      "kind": "subsection",
+      "before": "怎样读懂 GO 注释中的证据与限定关系",
+      "after": "GO 注释证据：来源、证据码、限定关系与否定注释",
+      "anchor": "d04-1-2-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/1.2_GO 注释与 GOA/1.2.1_怎样读懂 GO 注释中的证据与限定关系",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/1.2_GO 注释与 GOA/1.2.1_GO 注释证据：来源、证据码、限定关系与否定注释"
+    },
+    {
+      "id": "D04:2.1.1",
+      "kind": "subsection",
+      "before": "STRING 的节点和边究竟表示什么",
+      "after": "STRING 网络语义：蛋白标识、物种与功能关联边",
+      "anchor": "d04-2-1-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/2.1_节点与边/2.1.1_STRING 的节点和边究竟表示什么",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/2.1_节点与边/2.1.1_STRING 网络语义：蛋白标识、物种与功能关联边"
+    },
+    {
+      "id": "D04:2.2.1",
+      "kind": "subsection",
+      "before": "怎样结合 STRING 的证据通道与分数判断关联",
+      "after": "STRING 关联评价：证据通道、综合分数与阈值偏差",
+      "anchor": "d04-2-2-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/2.2_证据通道/2.2.1_怎样结合 STRING 的证据通道与分数判断关联",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/2.2_证据通道/2.2.1_STRING 关联评价：证据通道、综合分数与阈值偏差"
+    },
+    {
+      "id": "D04:3.1.1",
+      "kind": "subsection",
+      "before": "Reactome 怎样把分子对象组织为反应与通路",
+      "after": "Reactome 事件模型：分子实体、反应、复合物与通路",
+      "anchor": "d04-3-1-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/3.1_事件与分子对象/3.1.1_Reactome 怎样把分子对象组织为反应与通路",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/3.1_事件与分子对象/3.1.1_Reactome 事件模型：分子实体、反应、复合物与通路"
+    },
+    {
+      "id": "D04:3.2.1",
+      "kind": "subsection",
+      "before": "Reactome 的人工策展和物种投射提供何种证据",
+      "after": "Reactome 证据来源：人工策展与跨物种投射",
+      "anchor": "d04-3-2-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/3.2_策展与物种投射/3.2.1_Reactome 的人工策展和物种投射提供何种证据",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/3.2_策展与物种投射/3.2.1_Reactome 证据来源：人工策展与跨物种投射"
+    },
+    {
+      "id": "D04:4.1.1",
+      "kind": "subsection",
+      "before": "如何设置背景并完成过度代表富集分析",
+      "after": "过度代表分析（ORA）：背景集、超几何检验与多重校正",
+      "anchor": "d04-4-1-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/4.1_富集分析/4.1.1_如何设置背景并完成过度代表富集分析",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/4.1_富集分析/4.1.1_过度代表分析（ORA）：背景集、超几何检验与多重校正"
+    },
+    {
+      "id": "D04:4.1.2",
+      "kind": "subsection",
+      "before": "GSEA 怎样从排序列表判断通路富集",
+      "after": "基因集富集分析（GSEA）：排序列表、富集方向与基因集覆盖",
+      "anchor": "d04-4-1-2",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/4.1_富集分析/4.1.2_GSEA 怎样从排序列表判断通路富集",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/4.1_富集分析/4.1.2_基因集富集分析（GSEA）：排序列表、富集方向与基因集覆盖"
+    },
+    {
+      "id": "D04:4.2.1",
+      "kind": "subsection",
+      "before": "网络模块和枢纽怎样形成可检验的机制假设",
+      "after": "网络分析：功能模块、枢纽、网络传播与证据偏差",
+      "anchor": "d04-4-2-1",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/4.2_网络分析/4.2.1_网络模块和枢纽怎样形成可检验的机制假设",
+      "new_output_directory": "content/专题知识/数据资源/分子功能网络与通路原始资源/4.2_网络分析/4.2.1_网络分析：功能模块、枢纽、网络传播与证据偏差"
+    },
+    {
+      "id": "D04:5",
+      "kind": "chapter",
+      "before": "三种资源如何互补",
+      "after": "功能注释、关联网络与反应通路的联合使用",
+      "anchor": "d04-5",
+      "path": "content/专题知识/数据资源/分子功能网络与通路原始资源/README.md"
+    },
+    {
+      "id": "D05:1.1.1",
+      "kind": "subsection",
+      "before": "本体怎样用定义、标识和关系组织术语",
+      "after": "本体基础：类别定义、稳定标识、同义词与关系",
+      "anchor": "d05-1-1-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/1.1_术语、关系与注释/1.1.1_本体怎样用定义、标识和关系组织术语",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/1.1_术语、关系与注释/1.1.1_本体基础：类别定义、稳定标识、同义词与关系"
+    },
+    {
+      "id": "D05:1.2.2",
+      "kind": "subsection",
+      "before": "开放世界与缺失注释为什么不等于否定",
+      "after": "开放世界假设：缺失注释与明确否定",
+      "anchor": "d05-1-2-2",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/1.2_图结构与逻辑/1.2.2_开放世界与缺失注释为什么不等于否定",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/1.2_图结构与逻辑/1.2.2_开放世界假设：缺失注释与明确否定"
+    },
+    {
+      "id": "D05:1.2.3",
+      "kind": "subsection",
+      "before": "逻辑限制与推理怎样补充术语层级",
+      "after": "本体逻辑：存在限制、关系约束与推理",
+      "anchor": "d05-1-2-3",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/1.2_图结构与逻辑/1.2.3_逻辑限制与推理怎样补充术语层级",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/1.2_图结构与逻辑/1.2.3_本体逻辑：存在限制、关系约束与推理"
+    },
+    {
+      "id": "D05:2.1.1",
+      "kind": "subsection",
+      "before": "CL 如何表达细胞类型、谱系与状态边界",
+      "after": "Cell Ontology：细胞类型定义、谱系与状态标签",
+      "anchor": "d05-2-1-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/2.1_Cell Ontology（CL）/2.1.1_CL 如何表达细胞类型、谱系与状态边界",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/2.1_Cell Ontology（CL）/2.1.1_Cell Ontology：细胞类型定义、谱系与状态标签"
+    },
+    {
+      "id": "D05:2.2.1",
+      "kind": "subsection",
+      "before": "Uberon 怎样表达解剖层级和跨物种关系",
+      "after": "Uberon：解剖层级、发育关系与物种约束",
+      "anchor": "d05-2-2-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/2.2_Uberon/2.2.1_Uberon 怎样表达解剖层级和跨物种关系",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/2.2_Uberon/2.2.1_Uberon：解剖层级、发育关系与物种约束"
+    },
+    {
+      "id": "D05:3.1.1",
+      "kind": "subsection",
+      "before": "怎样用 HPO 记录和比较疾病表型证据",
+      "after": "HPO 表型注释：异常术语、频率、起病与否定表型",
+      "anchor": "d05-3-1-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/3.1_HPO/3.1.1_怎样用 HPO 记录和比较疾病表型证据",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/3.1_HPO/3.1.1_HPO 表型注释：异常术语、频率、起病与否定表型"
+    },
+    {
+      "id": "D05:3.2.1",
+      "kind": "subsection",
+      "before": "MONDO 与 Disease Ontology 怎样整理疾病概念",
+      "after": "MONDO 与 Disease Ontology：疾病概念、层级与跨库映射",
+      "anchor": "d05-3-2-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/3.2_MONDO 与 Disease Ontology/3.2.1_MONDO 与 Disease Ontology 怎样整理疾病概念",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/3.2_MONDO 与 Disease Ontology/3.2.1_MONDO 与 Disease Ontology：疾病概念、层级与跨库映射"
+    },
+    {
+      "id": "D05:4.1.1",
+      "kind": "subsection",
+      "before": "ECO 怎样描述支持注释的证据类型",
+      "after": "ECO 证据分类：实验、计算与人工整理",
+      "anchor": "d05-4-1-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/4.1_ECO 及证据表达/4.1.1_ECO 怎样描述支持注释的证据类型",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/4.1_ECO 及证据表达/4.1.1_ECO 证据分类：实验、计算与人工整理"
+    },
+    {
+      "id": "D05:4.2.1",
+      "kind": "subsection",
+      "before": "怎样定位本体术语并追踪标识与版本变化",
+      "after": "本体术语管理：CURIE、IRI、命名空间与版本变更",
+      "anchor": "d05-4-2-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/4.2_标识映射/4.2.1_怎样定位本体术语并追踪标识与版本变化",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/4.2_标识映射/4.2.1_本体术语管理：CURIE、IRI、命名空间与版本变更"
+    },
+    {
+      "id": "D05:4.2.2",
+      "kind": "subsection",
+      "before": "交叉引用、精确映射和近似映射不等价",
+      "after": "跨本体映射：交叉引用、精确映射与近似映射",
+      "anchor": "d05-4-2-2",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/4.2_标识映射/4.2.2_交叉引用、精确映射和近似映射不等价",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/4.2_标识映射/4.2.2_跨本体映射：交叉引用、精确映射与近似映射"
+    },
+    {
+      "id": "D05:5.1.1",
+      "kind": "subsection",
+      "before": "本体发布、OBO Foundry 与 OLS 检索怎样分工",
+      "after": "本体资源获取：发布文件、OBO Foundry 与 OLS 检索",
+      "anchor": "d05-5-1-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/5.1_原始资源与检索服务/5.1.1_本体发布、OBO Foundry 与 OLS 检索怎样分工",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/5.1_原始资源与检索服务/5.1.1_本体资源获取：发布文件、OBO Foundry 与 OLS 检索"
+    },
+    {
+      "id": "D05:5.2.1",
+      "kind": "subsection",
+      "before": "本体怎样帮助标准化样本标签与语义检索",
+      "after": "本体应用：样本标签标准化与语义检索",
+      "anchor": "d05-5-2-1",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/5.2_分析任务/5.2.1_本体怎样帮助标准化样本标签与语义检索",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/5.2_分析任务/5.2.1_本体应用：样本标签标准化与语义检索"
+    },
+    {
+      "id": "D05:5.2.2",
+      "kind": "subsection",
+      "before": "表型相似度怎样利用本体的层级信息",
+      "after": "表型语义相似度：本体层级与表型集合比较",
+      "anchor": "d05-5-2-2",
+      "path": "content/专题知识/数据资源/生物医学本体与表型原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/5.2_分析任务/5.2.2_表型相似度怎样利用本体的层级信息",
+      "new_output_directory": "content/专题知识/数据资源/生物医学本体与表型原始资源/5.2_分析任务/5.2.2_表型语义相似度：本体层级与表型集合比较"
+    },
+    {
+      "id": "D06:1.1.1",
+      "kind": "subsection",
+      "before": "化学标准化怎样改变数据库中的分子身份",
+      "after": "化学实体标准化：去盐、母体、混合物与互变异构",
+      "anchor": "d06-1-1-1",
+      "path": "content/专题知识/数据资源/化学实体与活性原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/1.1_化学身份/1.1.1_化学标准化怎样改变数据库中的分子身份",
+      "new_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/1.1_化学身份/1.1.1_化学实体标准化：去盐、母体、混合物与互变异构"
+    },
+    {
+      "id": "D06:2.1.1",
+      "kind": "subsection",
+      "before": "怎样读取 ChEBI 的化学实体和策展信息",
+      "after": "ChEBI 实体：名称、结构、分子式、电荷与策展来源",
+      "anchor": "d06-2-1-1",
+      "path": "content/专题知识/数据资源/化学实体与活性原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/2.1_策展实体/2.1.1_怎样读取 ChEBI 的化学实体和策展信息",
+      "new_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/2.1_策展实体/2.1.1_ChEBI 实体：名称、结构、分子式、电荷与策展来源"
+    },
+    {
+      "id": "D06:2.2.1",
+      "kind": "subsection",
+      "before": "ChEBI 怎样区分结构分类与生物学角色",
+      "after": "ChEBI 本体关系：结构分类、has_role 与生物学角色",
+      "anchor": "d06-2-2-1",
+      "path": "content/专题知识/数据资源/化学实体与活性原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/2.2_分类和关系/2.2.1_ChEBI 怎样区分结构分类与生物学角色",
+      "new_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/2.2_分类和关系/2.2.1_ChEBI 本体关系：结构分类、has_role 与生物学角色"
+    },
+    {
+      "id": "D06:3.1.1",
+      "kind": "subsection",
+      "before": "怎样追踪 ChEBI 的发布、合并和原始引用",
+      "after": "ChEBI 发布与溯源：版本、条目合并与原始引用",
+      "anchor": "d06-3-1-1",
+      "path": "content/专题知识/数据资源/化学实体与活性原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/3.1_发布形式/3.1.1_怎样追踪 ChEBI 的发布、合并和原始引用",
+      "new_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/3.1_发布形式/3.1.1_ChEBI 发布与溯源：版本、条目合并与原始引用"
+    },
+    {
+      "id": "D06:4.1.1",
+      "kind": "subsection",
+      "before": "怎样读懂化学活性记录中的数值、单位与实验背景",
+      "after": "化学活性记录：测量端点、单位、检测限与 assay 条件",
+      "anchor": "d06-4-1-1",
+      "path": "content/专题知识/数据资源/化学实体与活性原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/4.1_测量对象/4.1.1_怎样读懂化学活性记录中的数值、单位与实验背景",
+      "new_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/4.1_测量对象/4.1.1_化学活性记录：测量端点、单位、检测限与 assay 条件"
+    },
+    {
+      "id": "D06:5.2.1",
+      "kind": "subsection",
+      "before": "药物身份和资源关联怎样支撑细胞响应解释",
+      "after": "药物数据关联：分子身份、剂量、通路角色与细胞响应",
+      "anchor": "d06-5-2-1",
+      "path": "content/专题知识/数据资源/化学实体与活性原始资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/5.2_扰动与功能解释/5.2.1_药物身份和资源关联怎样支撑细胞响应解释",
+      "new_output_directory": "content/专题知识/数据资源/化学实体与活性原始资源/5.2_扰动与功能解释/5.2.1_药物数据关联：分子身份、剂量、通路角色与细胞响应"
+    },
+    {
+      "id": "D07:1.1.1",
+      "kind": "subsection",
+      "before": "内部抗体实验的一手证据与公共参照如何区分",
+      "after": "抗体数据证据：内部实验记录与公共参照资源",
+      "anchor": "d07-1-1-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/1.1_数据从何而来/1.1.1_内部抗体实验的一手证据与公共参照如何区分",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/1.1_数据从何而来/1.1.1_抗体数据证据：内部实验记录与公共参照资源"
+    },
+    {
+      "id": "D07:1.2.1",
+      "kind": "subsection",
+      "before": "抗原、样本、克隆、构建体与实验批次怎样对应",
+      "after": "抗体实验对象：抗原、样本、克隆、构建体与批次",
+      "anchor": "d07-1-2-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/1.2_对象层级/1.2.1_抗原、样本、克隆、构建体与实验批次怎样对应",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/1.2_对象层级/1.2.1_抗体实验对象：抗原、样本、克隆、构建体与批次"
+    },
+    {
+      "id": "D07:2.1.1",
+      "kind": "subsection",
+      "before": "BCR 原始读段怎样形成可信的配对抗体序列",
+      "after": "BCR 测序处理：读段组装、序列质量与重轻链配对",
+      "anchor": "d07-2-1-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/2.1_上游实验/2.1.1_BCR 原始读段怎样形成可信的配对抗体序列",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/2.1_上游实验/2.1.1_BCR 测序处理：读段组装、序列质量与重轻链配对"
+    },
+    {
+      "id": "D07:2.1.2",
+      "kind": "subsection",
+      "before": "从序列集合怎样形成克隆家族与谱系假设",
+      "after": "抗体谱系分析：克隆家族、序列相似性与亲和成熟",
+      "anchor": "d07-2-1-2",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/2.1_上游实验/2.1.2_从序列集合怎样形成克隆家族与谱系假设",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/2.1_上游实验/2.1.2_抗体谱系分析：克隆家族、序列相似性与亲和成熟"
+    },
+    {
+      "id": "D07:2.2.1",
+      "kind": "subsection",
+      "before": "IMGT 怎样支持胚系、区域和编号的原始注释",
+      "after": "IMGT 注释：胚系、可变区划分与残基编号",
+      "anchor": "d07-2-2-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/2.2_标准注释与公共参照/2.2.1_IMGT 怎样支持胚系、区域和编号的原始注释",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/2.2_标准注释与公共参照/2.2.1_IMGT 注释：胚系、可变区划分与残基编号"
+    },
+    {
+      "id": "D07:3.1.1",
+      "kind": "subsection",
+      "before": "怎样从抗体构建追溯表达、纯化与质量记录",
+      "after": "抗体制备记录：构建形式、表达条件、纯化与质量控制",
+      "anchor": "d07-3-1-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/3.1_表达与纯化/3.1.1_怎样从抗体构建追溯表达、纯化与质量记录",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/3.1_表达与纯化/3.1.1_抗体制备记录：构建形式、表达条件、纯化与质量控制"
+    },
+    {
+      "id": "D07:3.2.1",
+      "kind": "subsection",
+      "before": "SAbDab 怎样关联抗体结构、抗原与实验证据",
+      "after": "SAbDab：抗体结构、抗原关联与实验证据",
+      "anchor": "d07-3-2-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/3.2_结构与参照/3.2.1_SAbDab 怎样关联抗体结构、抗原与实验证据",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/3.2_结构与参照/3.2.1_SAbDab：抗体结构、抗原关联与实验证据"
+    },
+    {
+      "id": "D07:4.1.1",
+      "kind": "subsection",
+      "before": "怎样从抗体测量记录比较亲和力与交叉反应",
+      "after": "抗体结合数据：亲和力、动力学拟合与交叉反应",
+      "anchor": "d07-4-1-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/4.1_结合与特异性/4.1.1_怎样从抗体测量记录比较亲和力与交叉反应",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/4.1_结合与特异性/4.1.1_抗体结合数据：亲和力、动力学拟合与交叉反应"
+    },
+    {
+      "id": "D07:5",
+      "kind": "chapter",
+      "before": "如何构造可用于学习的证据",
+      "after": "抗体实验血缘与训练标签构建",
+      "anchor": "d07-5",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md"
+    },
+    {
+      "id": "D07:5.1.1",
+      "kind": "subsection",
+      "before": "怎样把实验血缘转换为可靠的训练标签",
+      "after": "抗体训练标签：实验血缘、测量条件、缺失值与真阴性",
+      "anchor": "d07-5-1-1",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/5.1_标签与血缘/5.1.1_怎样把实验血缘转换为可靠的训练标签",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/5.1_标签与血缘/5.1.1_抗体训练标签：实验血缘、测量条件、缺失值与真阴性"
+    },
+    {
+      "id": "D07:5.2.2",
+      "kind": "subsection",
+      "before": "内部抗体资料怎样处理授权与外部引用",
+      "after": "内部抗体资料管理：访问授权、保密与来源引用",
+      "anchor": "d07-5-2-2",
+      "path": "content/专题知识/数据资源/抗体原始实验与公共参照资源/README.md",
+      "old_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/5.2_外推与治理/5.2.2_内部抗体资料怎样处理授权与外部引用",
+      "new_output_directory": "content/专题知识/数据资源/抗体原始实验与公共参照资源/5.2_外推与治理/5.2.2_内部抗体资料管理：访问授权、保密与来源引用"
+    },
+    {
+      "id": "M01:1.1.2",
+      "kind": "subsection",
+      "before": "内积与距离怎样表达相似性",
+      "after": "向量相似性：内积、夹角与距离",
+      "anchor": "m01-1-1-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.1_数值对象/1.1.2_内积与距离怎样表达相似性",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.1_数值对象/1.1.2_向量相似性：内积、夹角与距离"
+    },
+    {
+      "id": "M01:1.1.3",
+      "kind": "subsection",
+      "before": "特征分解、SVD 与 PCA 如何连接降维",
+      "after": "线性降维：特征分解、SVD 与 PCA",
+      "anchor": "m01-1-1-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.1_数值对象/1.1.3_特征分解、SVD 与 PCA 如何连接降维",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.1_数值对象/1.1.3_线性降维：特征分解、SVD 与 PCA"
+    },
+    {
+      "id": "M01:1.2.1",
+      "kind": "subsection",
+      "before": "随机变量和条件概率如何描述数据",
+      "after": "随机变量、概率分布与条件概率",
+      "anchor": "m01-1-2-1",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.1_随机变量和条件概率如何描述数据",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.1_随机变量、概率分布与条件概率"
+    },
+    {
+      "id": "M01:1.2.2",
+      "kind": "subsection",
+      "before": "贝叶斯公式如何用观测更新判断",
+      "after": "贝叶斯推断：先验、似然与后验",
+      "anchor": "m01-1-2-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.2_贝叶斯公式如何用观测更新判断",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.2_贝叶斯推断：先验、似然与后验"
+    },
+    {
+      "id": "M01:1.2.3",
+      "kind": "subsection",
+      "before": "期望、方差与协方差怎样概括随机变化",
+      "after": "分布统计量：期望、方差与协方差",
+      "anchor": "m01-1-2-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.3_期望、方差与协方差怎样概括随机变化",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.3_分布统计量：期望、方差与协方差"
+    },
+    {
+      "id": "M01:1.2.4",
+      "kind": "subsection",
+      "before": "似然、对数似然与最大似然如何连接学习目标",
+      "after": "似然、对数似然与最大似然估计",
+      "anchor": "m01-1-2-4",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.4_似然、对数似然与最大似然如何连接学习目标",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/1.2_概率语言/1.2.4_似然、对数似然与最大似然估计"
+    },
+    {
+      "id": "M01:2",
+      "kind": "chapter",
+      "before": "模型如何从数据学习",
+      "after": "学习任务、神经网络与参数优化",
+      "anchor": "m01-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md"
+    },
+    {
+      "id": "M01:2.1.1",
+      "kind": "subsection",
+      "before": "回归、分类与无监督任务如何区分",
+      "after": "学习任务：回归、分类与无监督学习",
+      "anchor": "m01-2-1-1",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.1_回归、分类与无监督任务如何区分",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.1_学习任务：回归、分类与无监督学习"
+    },
+    {
+      "id": "M01:2.1.2",
+      "kind": "subsection",
+      "before": "从线性层、激活到多层感知机",
+      "after": "多层感知机（MLP）：线性层、激活函数与任务头",
+      "anchor": "m01-2-1-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.2_从线性层、激活到多层感知机",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.2_多层感知机（MLP）：线性层、激活函数与任务头"
+    },
+    {
+      "id": "M01:2.1.3",
+      "kind": "subsection",
+      "before": "损失函数与数据观测模型有什么关系",
+      "after": "观测模型与损失函数：回归误差和分类交叉熵",
+      "anchor": "m01-2-1-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.3_损失函数与数据观测模型有什么关系",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.3_观测模型与损失函数：回归误差和分类交叉熵"
+    },
+    {
+      "id": "M01:2.1.4",
+      "kind": "subsection",
+      "before": "正则化怎样约束模型而不是增加训练数据",
+      "after": "模型正则化：L1、L2 与早停",
+      "anchor": "m01-2-1-4",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.4_正则化怎样约束模型而不是增加训练数据",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.1_学习目标/2.1.4_模型正则化：L1、L2 与早停"
+    },
+    {
+      "id": "M01:2.2.1",
+      "kind": "subsection",
+      "before": "链式法则和反向传播如何计算网络梯度",
+      "after": "网络梯度计算：链式法则与反向传播",
+      "anchor": "m01-2-2-1",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.2_优化与容量/2.2.1_链式法则和反向传播如何计算网络梯度",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.2_优化与容量/2.2.1_网络梯度计算：链式法则与反向传播"
+    },
+    {
+      "id": "M01:2.2.2",
+      "kind": "subsection",
+      "before": "梯度下降与优化器怎样更新参数",
+      "after": "参数优化：梯度下降、学习率、动量与 Adam",
+      "anchor": "m01-2-2-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.2_优化与容量/2.2.2_梯度下降与优化器怎样更新参数",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.2_优化与容量/2.2.2_参数优化：梯度下降、学习率、动量与 Adam"
+    },
+    {
+      "id": "M01:2.3.1",
+      "kind": "subsection",
+      "before": "线性回归与逻辑回归为什么是重要基线",
+      "after": "线性预测基线：线性回归与逻辑回归",
+      "anchor": "m01-2-3-1",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.3_基线与适配/2.3.1_线性回归与逻辑回归为什么是重要基线",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.3_基线与适配/2.3.1_线性预测基线：线性回归与逻辑回归"
+    },
+    {
+      "id": "M01:2.3.2",
+      "kind": "subsection",
+      "before": "支持向量机与核方法如何建立分类边界",
+      "after": "支持向量机（SVM）：最大间隔与核方法",
+      "anchor": "m01-2-3-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.3_基线与适配/2.3.2_支持向量机与核方法如何建立分类边界",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.3_基线与适配/2.3.2_支持向量机（SVM）：最大间隔与核方法"
+    },
+    {
+      "id": "M01:2.3.3",
+      "kind": "subsection",
+      "before": "决策树与树集成怎样形成非线性预测",
+      "after": "树模型与集成学习：决策树、随机森林与 Boosting",
+      "anchor": "m01-2-3-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.3_基线与适配/2.3.3_决策树与树集成怎样形成非线性预测",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/2.3_基线与适配/2.3.3_树模型与集成学习：决策树、随机森林与 Boosting"
+    },
+    {
+      "id": "M01:3",
+      "kind": "chapter",
+      "before": "统计结论如何成立",
+      "after": "统计推断与实验设计",
+      "anchor": "m01-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md"
+    },
+    {
+      "id": "M01:3.1.1",
+      "kind": "subsection",
+      "before": "效应量与置信区间如何共同表达研究结果",
+      "after": "效应量、置信区间与估计不确定性",
+      "anchor": "m01-3-1-1",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.1_效应量与置信区间如何共同表达研究结果",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.1_效应量、置信区间与估计不确定性"
+    },
+    {
+      "id": "M01:3.1.2",
+      "kind": "subsection",
+      "before": "统计功效怎样影响实验设计与样本量",
+      "after": "统计功效、样本量与未检出效应",
+      "anchor": "m01-3-1-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.2_统计功效怎样影响实验设计与样本量",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.2_统计功效、样本量与未检出效应"
+    },
+    {
+      "id": "M01:3.1.3",
+      "kind": "subsection",
+      "before": "假设检验和 p 值到底回答什么问题",
+      "after": "假设检验：零假设、p 值与显著性",
+      "anchor": "m01-3-1-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.3_假设检验和 p 值到底回答什么问题",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.3_假设检验：零假设、p 值与显著性"
+    },
+    {
+      "id": "M01:3.1.4",
+      "kind": "subsection",
+      "before": "多重检验与 FDR 为什么改变显著性判断",
+      "after": "多重检验校正与假发现率（FDR）",
+      "anchor": "m01-3-1-4",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.4_多重检验与 FDR 为什么改变显著性判断",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/3.1_比较与检验/3.1.4_多重检验校正与假发现率（FDR）"
+    },
+    {
+      "id": "M01:4",
+      "kind": "chapter",
+      "before": "如何测量模型能力",
+      "after": "预测指标、不确定性与决策",
+      "anchor": "m01-4",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md"
+    },
+    {
+      "id": "M01:4.1.3",
+      "kind": "subsection",
+      "before": "MAE、RMSE 与残差如何评价数值误差",
+      "after": "回归误差指标：MAE、RMSE 与残差",
+      "anchor": "m01-4-1-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.1_任务匹配的指标/4.1.3_MAE、RMSE 与残差如何评价数值误差",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.1_任务匹配的指标/4.1.3_回归误差指标：MAE、RMSE 与残差"
+    },
+    {
+      "id": "M01:4.1.4",
+      "kind": "subsection",
+      "before": "相关性与排序好为何不等于数值预测准",
+      "after": "预测相关性、排序指标与数值准确性",
+      "anchor": "m01-4-1-4",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.1_任务匹配的指标/4.1.4_相关性与排序好为何不等于数值预测准",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.1_任务匹配的指标/4.1.4_预测相关性、排序指标与数值准确性"
+    },
+    {
+      "id": "M01:4.2.1",
+      "kind": "subsection",
+      "before": "概率校准为何不等于分类准确",
+      "after": "概率校准与可靠性曲线",
+      "anchor": "m01-4-2-1",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.1_概率校准为何不等于分类准确",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.1_概率校准与可靠性曲线"
+    },
+    {
+      "id": "M01:4.2.2",
+      "kind": "subsection",
+      "before": "阈值和类别权重如何服务实际决策",
+      "after": "分类决策：阈值、类别权重与错误代价",
+      "anchor": "m01-4-2-2",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.2_阈值和类别权重如何服务实际决策",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.2_分类决策：阈值、类别权重与错误代价"
+    },
+    {
+      "id": "M01:4.2.3",
+      "kind": "subsection",
+      "before": "预测区间怎样表达单次预测的不确定性",
+      "after": "预测区间与均值置信区间",
+      "anchor": "m01-4-2-3",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.3_预测区间怎样表达单次预测的不确定性",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.3_预测区间与均值置信区间"
+    },
+    {
+      "id": "M01:4.2.4",
+      "kind": "subsection",
+      "before": "分布外输入与拒绝判断如何识别适用域",
+      "after": "模型适用域：分布外输入与拒绝预测",
+      "anchor": "m01-4-2-4",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.4_分布外输入与拒绝判断如何识别适用域",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/4.2_概率与决策/4.2.4_模型适用域：分布外输入与拒绝预测"
+    },
+    {
+      "id": "M01:5",
+      "kind": "chapter",
+      "before": "生物模型为何容易被高估",
+      "after": "生物模型评估：数据泄漏与验证设计",
+      "anchor": "m01-5",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md"
+    },
+    {
+      "id": "M01:5.2.1",
+      "kind": "subsection",
+      "before": "基线、消融与外部验证怎样支撑模型结论",
+      "after": "模型验证：基线对照、消融实验与外部验证",
+      "anchor": "m01-5-2-1",
+      "path": "content/基础知识/模型方法/统计学习与科学评估基础/README.md",
+      "old_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/5.2_证据与复现/5.2.1_基线、消融与外部验证怎样支撑模型结论",
+      "new_output_directory": "content/基础知识/模型方法/统计学习与科学评估基础/5.2_证据与复现/5.2.1_模型验证：基线对照、消融实验与外部验证"
+    },
+    {
+      "id": "M02:2.2.2",
+      "kind": "subsection",
+      "before": "多头注意力如何组合多个上下文视角",
+      "after": "多头注意力：QKV 投影、分头与输出合并",
+      "anchor": "m02-2-2-2",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.2_多头注意力如何组合多个上下文视角",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.2_多头注意力：QKV 投影、分头与输出合并"
+    },
+    {
+      "id": "M02:2.2.3",
+      "kind": "subsection",
+      "before": "前馈网络、残差与归一化如何组成 Transformer 块",
+      "after": "Transformer 块：前馈网络、残差连接与归一化",
+      "anchor": "m02-2-2-3",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.3_前馈网络、残差与归一化如何组成 Transformer 块",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.3_Transformer 块：前馈网络、残差连接与归一化"
+    },
+    {
+      "id": "M02:2.2.4",
+      "kind": "subsection",
+      "before": "编码器、解码器与交叉注意力的任务分工",
+      "after": "Transformer 架构：编码器、解码器与交叉注意力",
+      "anchor": "m02-2-2-4",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.4_编码器、解码器与交叉注意力的任务分工",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.4_Transformer 架构：编码器、解码器与交叉注意力"
+    },
+    {
+      "id": "M02:2.2.5",
+      "kind": "subsection",
+      "before": "因果掩码如何连接训练并行与生成串行",
+      "after": "因果注意力：掩码、训练并行与逐步生成",
+      "anchor": "m02-2-2-5",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.5_因果掩码如何连接训练并行与生成串行",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/2.2_注意力与 Transformer/2.2.5_因果注意力：掩码、训练并行与逐步生成"
+    },
+    {
+      "id": "M02:4.1.1",
+      "kind": "subsection",
+      "before": "从 logits 到温度、top-k 和 top-p 的采样选择",
+      "after": "序列采样：logits、温度、top-k 与 top-p",
+      "anchor": "m02-4-1-1",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/4.1_从分布产生序列/4.1.1_从 logits 到温度、top-k 和 top-p 的采样选择",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/4.1_从分布产生序列/4.1.1_序列采样：logits、温度、top-k 与 top-p"
+    },
+    {
+      "id": "M02:4.2.2",
+      "kind": "subsection",
+      "before": "LoRA 等参数高效适配怎样减少训练参数",
+      "after": "参数高效微调：LoRA 与低秩增量",
+      "anchor": "m02-4-2-2",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/4.2_让预训练模型适配任务/4.2.2_LoRA 等参数高效适配怎样减少训练参数",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/4.2_让预训练模型适配任务/4.2.2_参数高效微调：LoRA 与低秩增量"
+    },
+    {
+      "id": "M02:4.2.3",
+      "kind": "subsection",
+      "before": "多任务学习与数据效率怎样被评价",
+      "after": "多任务学习、任务权衡与少样本数据效率",
+      "anchor": "m02-4-2-3",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/4.2_让预训练模型适配任务/4.2.3_多任务学习与数据效率怎样被评价",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/4.2_让预训练模型适配任务/4.2.3_多任务学习、任务权衡与少样本数据效率"
+    },
+    {
+      "id": "M02:5.1.2",
+      "kind": "subsection",
+      "before": "状态空间模型如何处理长序列",
+      "after": "状态空间模型：状态更新与长序列建模",
+      "anchor": "m02-5-1-2",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/5.1_长上下文的代价/5.1.2_状态空间模型如何处理长序列",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/5.1_长上下文的代价/5.1.2_状态空间模型：状态更新与长序列建模"
+    },
+    {
+      "id": "M02:5.1.3",
+      "kind": "subsection",
+      "before": "长卷积与混合架构如何取舍序列计算",
+      "after": "长卷积与混合序列架构",
+      "anchor": "m02-5-1-3",
+      "path": "content/基础知识/模型方法/序列建模与基础模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/序列建模与基础模型/5.1_长上下文的代价/5.1.3_长卷积与混合架构如何取舍序列计算",
+      "new_output_directory": "content/基础知识/模型方法/序列建模与基础模型/5.1_长上下文的代价/5.1.3_长卷积与混合序列架构"
+    },
+    {
+      "id": "M03:1.1.1",
+      "kind": "subsection",
+      "before": "怎样把实体、关系与属性表示成图",
+      "after": "图数据表示：节点、边、方向与属性",
+      "anchor": "m03-1-1-1",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/1.1_图中的对象/1.1.1_怎样把实体、关系与属性表示成图",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/1.1_图中的对象/1.1.1_图数据表示：节点、边、方向与属性"
+    },
+    {
+      "id": "M03:2.1.2",
+      "kind": "subsection",
+      "before": "图卷积如何实现邻域信息聚合",
+      "after": "图卷积（GCN）：邻域归一化与特征聚合",
+      "anchor": "m03-2-1-2",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.1_消息传递/2.1.2_图卷积如何实现邻域信息聚合",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.1_消息传递/2.1.2_图卷积（GCN）：邻域归一化与特征聚合"
+    },
+    {
+      "id": "M03:2.1.3",
+      "kind": "subsection",
+      "before": "图注意力怎样学习邻域的不同权重",
+      "after": "图注意力（GAT）：注意力权重与邻域聚合",
+      "anchor": "m03-2-1-3",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.1_消息传递/2.1.3_图注意力怎样学习邻域的不同权重",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.1_消息传递/2.1.3_图注意力（GAT）：注意力权重与邻域聚合"
+    },
+    {
+      "id": "M03:2.2.2",
+      "kind": "subsection",
+      "before": "过平滑为什么让深层图网络失去区分度",
+      "after": "图网络过平滑与节点表示趋同",
+      "anchor": "m03-2-2-2",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.2_表达能力与失败模式/2.2.2_过平滑为什么让深层图网络失去区分度",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.2_表达能力与失败模式/2.2.2_图网络过平滑与节点表示趋同"
+    },
+    {
+      "id": "M03:2.2.3",
+      "kind": "subsection",
+      "before": "过压缩如何限制远程依赖",
+      "after": "图网络过压缩、信息瓶颈与远程依赖",
+      "anchor": "m03-2-2-3",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.2_表达能力与失败模式/2.2.3_过压缩如何限制远程依赖",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/2.2_表达能力与失败模式/2.2.3_图网络过压缩、信息瓶颈与远程依赖"
+    },
+    {
+      "id": "M03:3.1.2",
+      "kind": "subsection",
+      "before": "不变预测与等变预测分别意味着什么",
+      "after": "几何变换下的不变预测与等变预测",
+      "anchor": "m03-3-1-2",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/3.1_坐标变换/3.1.2_不变预测与等变预测分别意味着什么",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/3.1_坐标变换/3.1.2_几何变换下的不变预测与等变预测"
+    },
+    {
+      "id": "M03:4",
+      "kind": "chapter",
+      "before": "如何学习分子几何",
+      "after": "分子几何表示与等变网络",
+      "anchor": "m03-4",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md"
+    },
+    {
+      "id": "M03:4.1.2",
+      "kind": "subsection",
+      "before": "等变消息传递如何同时更新特征与坐标",
+      "after": "等变消息传递：特征更新与坐标更新",
+      "anchor": "m03-4-1-2",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/4.1_等变网络/4.1.2_等变消息传递如何同时更新特征与坐标",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/4.1_等变网络/4.1.2_等变消息传递：特征更新与坐标更新"
+    },
+    {
+      "id": "M03:4.1.3",
+      "kind": "subsection",
+      "before": "局部框架和几何注意力怎样组织三维信息",
+      "after": "局部坐标框架与几何注意力",
+      "anchor": "m03-4-1-3",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/4.1_等变网络/4.1.3_局部框架和几何注意力怎样组织三维信息",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/4.1_等变网络/4.1.3_局部坐标框架与几何注意力"
+    },
+    {
+      "id": "M03:5",
+      "kind": "chapter",
+      "before": "图模型如何落到科学任务",
+      "after": "图模型的预测任务与科学评估",
+      "anchor": "m03-5",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md"
+    },
+    {
+      "id": "M03:5.2.1",
+      "kind": "subsection",
+      "before": "图先验的覆盖与泄漏如何影响科学结论",
+      "after": "图先验评估：覆盖范围、知识泄漏与化学约束",
+      "anchor": "m03-5-2-1",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md",
+      "old_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/5.2_评估结构与先验/5.2.1_图先验的覆盖与泄漏如何影响科学结论",
+      "new_output_directory": "content/基础知识/模型方法/图神经网络与几何学习/5.2_评估结构与先验/5.2.1_图先验评估：覆盖范围、知识泄漏与化学约束"
+    },
+    {
+      "id": "M04:1.2.1",
+      "kind": "subsection",
+      "before": "能量模型怎样通过低能区域定义分布",
+      "after": "能量模型：能量函数、概率分布与采样",
+      "anchor": "m04-1-2-1",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/1.2_生成路线/1.2.1_能量模型怎样通过低能区域定义分布",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/1.2_生成路线/1.2.1_能量模型：能量函数、概率分布与采样"
+    },
+    {
+      "id": "M04:1.2.2",
+      "kind": "subsection",
+      "before": "对抗生成怎样通过生成器与判别器学习分布",
+      "after": "对抗生成（GAN）：生成器、判别器与训练目标",
+      "anchor": "m04-1-2-2",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/1.2_生成路线/1.2.2_对抗生成怎样通过生成器与判别器学习分布",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/1.2_生成路线/1.2.2_对抗生成（GAN）：生成器、判别器与训练目标"
+    },
+    {
+      "id": "M04:2",
+      "kind": "chapter",
+      "before": "潜变量如何表示变化",
+      "after": "潜变量表示与变分生成",
+      "anchor": "m04-2",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md"
+    },
+    {
+      "id": "M04:2.1.2",
+      "kind": "subsection",
+      "before": "VAE 如何用编码器与解码器建立生成模型",
+      "after": "变分自编码器（VAE）：随机潜变量、编码器与解码器",
+      "anchor": "m04-2-1-2",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/2.1_编码与重建/2.1.2_VAE 如何用编码器与解码器建立生成模型",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/2.1_编码与重建/2.1.2_变分自编码器（VAE）：随机潜变量、编码器与解码器"
+    },
+    {
+      "id": "M04:2.1.3",
+      "kind": "subsection",
+      "before": "近似后验与 ELBO 怎样连接 VAE 训练目标",
+      "after": "VAE 训练：近似后验、ELBO 与 KL 正则项",
+      "anchor": "m04-2-1-3",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/2.1_编码与重建/2.1.3_近似后验与 ELBO 怎样连接 VAE 训练目标",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/2.1_编码与重建/2.1.3_VAE 训练：近似后验、ELBO 与 KL 正则项"
+    },
+    {
+      "id": "M04:3.2.2",
+      "kind": "subsection",
+      "before": "SDE 与概率流 ODE 怎样描述连续时间生成",
+      "after": "连续时间生成：SDE 与概率流 ODE",
+      "anchor": "m04-3-2-2",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/3.2_分布与连续时间/3.2.2_SDE 与概率流 ODE 怎样描述连续时间生成",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/3.2_分布与连续时间/3.2.2_连续时间生成：SDE 与概率流 ODE"
+    },
+    {
+      "id": "M04:3.2.3",
+      "kind": "subsection",
+      "before": "采样器如何权衡步数、误差和生成质量",
+      "after": "生成采样器：时间离散化、步数与误差",
+      "anchor": "m04-3-2-3",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/3.2_分布与连续时间/3.2.3_采样器如何权衡步数、误差和生成质量",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/3.2_分布与连续时间/3.2.3_生成采样器：时间离散化、步数与误差"
+    },
+    {
+      "id": "M04:4.1.1",
+      "kind": "subsection",
+      "before": "连续数据、离散 token 与潜表示为何需要不同噪声",
+      "after": "扩散表示空间：连续数据、离散 token 与潜表示",
+      "anchor": "m04-4-1-1",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.1_连续数据、离散 token 与潜表示为何需要不同噪声",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.1_扩散表示空间：连续数据、离散 token 与潜表示"
+    },
+    {
+      "id": "M04:4.1.2",
+      "kind": "subsection",
+      "before": "离散掩码扩散如何逐步恢复符号对象",
+      "after": "离散掩码扩散：符号加噪与逐步恢复",
+      "anchor": "m04-4-1-2",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.2_离散掩码扩散如何逐步恢复符号对象",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.2_离散掩码扩散：符号加噪与逐步恢复"
+    },
+    {
+      "id": "M04:4.1.3",
+      "kind": "subsection",
+      "before": "坐标、旋转和扭转为什么有不同的噪声空间",
+      "after": "几何噪声空间：坐标、旋转与扭转角",
+      "anchor": "m04-4-1-3",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.3_坐标、旋转和扭转为什么有不同的噪声空间",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.3_几何噪声空间：坐标、旋转与扭转角"
+    },
+    {
+      "id": "M04:4.1.4",
+      "kind": "subsection",
+      "before": "流形上的去噪更新怎样保持几何对象",
+      "after": "流形扩散：几何约束与去噪更新",
+      "anchor": "m04-4-1-4",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.4_流形上的去噪更新怎样保持几何对象",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.1_表示与几何/4.1.4_流形扩散：几何约束与去噪更新"
+    },
+    {
+      "id": "M04:4.2.2",
+      "kind": "subsection",
+      "before": "流匹配怎样学习概率输运的速度场",
+      "after": "流匹配：概率输运、速度场与采样",
+      "anchor": "m04-4-2-2",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.2_流与输运/4.2.2_流匹配怎样学习概率输运的速度场",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.2_流与输运/4.2.2_流匹配：概率输运、速度场与采样"
+    },
+    {
+      "id": "M04:4.2.3",
+      "kind": "subsection",
+      "before": "流匹配与扩散在目标、路径和采样上的关系",
+      "after": "流匹配与扩散的训练目标、概率路径和采样对照",
+      "anchor": "m04-4-2-3",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.2_流与输运/4.2.3_流匹配与扩散在目标、路径和采样上的关系",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/4.2_流与输运/4.2.3_流匹配与扩散的训练目标、概率路径和采样对照"
+    },
+    {
+      "id": "M04:5",
+      "kind": "chapter",
+      "before": "如何控制并评价生成",
+      "after": "条件生成、约束控制与质量评价",
+      "anchor": "m04-5",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md"
+    },
+    {
+      "id": "M04:5.2.2",
+      "kind": "subsection",
+      "before": "怎样在相同采样预算下评价约束和任务成功",
+      "after": "生成评估：采样预算、约束满足与任务成功率",
+      "anchor": "m04-5-2-2",
+      "path": "content/基础知识/模型方法/概率生成与扩散模型/README.md",
+      "old_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/5.2_生成质量不是一个分数/5.2.2_怎样在相同采样预算下评价约束和任务成功",
+      "new_output_directory": "content/基础知识/模型方法/概率生成与扩散模型/5.2_生成质量不是一个分数/5.2.2_生成评估：采样预算、约束满足与任务成功率"
+    },
+    {
+      "id": "P01:1",
+      "kind": "chapter",
+      "before": "预测问题如何逐步扩大",
+      "after": "结构预测任务与输入证据",
+      "anchor": "p01-1",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md"
+    },
+    {
+      "id": "P01:1.2.1",
+      "kind": "subsection",
+      "before": "MSA、模板与链配对怎样成为结构预测的证据",
+      "after": "结构预测证据：MSA、模板与链配对",
+      "anchor": "p01-1-2-1",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/1.2_信息来源/1.2.1_MSA、模板与链配对怎样成为结构预测的证据",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/1.2_信息来源/1.2.1_结构预测证据：MSA、模板与链配对"
+    },
+    {
+      "id": "P01:2.1.1",
+      "kind": "subsection",
+      "before": "MSA 和残基对表示怎样提供互补结构信息",
+      "after": "AlphaFold2 的 MSA 表示与残基对表示",
+      "anchor": "p01-2-1-1",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.1_MSA 和残基对表示怎样提供互补结构信息",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.1_AlphaFold2 的 MSA 表示与残基对表示"
+    },
+    {
+      "id": "P01:2.1.2",
+      "kind": "subsection",
+      "before": "Evoformer 如何联合更新 MSA 与 pair 表示",
+      "after": "Evoformer 的 MSA—pair 联合更新",
+      "anchor": "p01-2-1-2",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.2_Evoformer 如何联合更新 MSA 与 pair 表示",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.2_Evoformer 的 MSA—pair 联合更新"
+    },
+    {
+      "id": "P01:2.1.3",
+      "kind": "subsection",
+      "before": "三角更新怎样利用残基三元关系",
+      "after": "残基三元关系：三角乘法更新与三角注意力",
+      "anchor": "p01-2-1-3",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.3_三角更新怎样利用残基三元关系",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.3_残基三元关系：三角乘法更新与三角注意力"
+    },
+    {
+      "id": "P01:2.1.4",
+      "kind": "subsection",
+      "before": "recycling 如何把预测结果反馈为下一轮条件",
+      "after": "Recycling：预测结果反馈与循环精化",
+      "anchor": "p01-2-1-4",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.4_recycling 如何把预测结果反馈为下一轮条件",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/2.1_从序列到关系表示/2.1.4_Recycling：预测结果反馈与循环精化"
+    },
+    {
+      "id": "P01:2.2.1",
+      "kind": "subsection",
+      "before": "AlphaFold2 的结构模块怎样从关系生成坐标",
+      "after": "AlphaFold2 结构模块：局部框架、IPA 与坐标生成",
+      "anchor": "p01-2-2-1",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/2.2_从关系到结构/2.2.1_AlphaFold2 的结构模块怎样从关系生成坐标",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/2.2_从关系到结构/2.2.1_AlphaFold2 结构模块：局部框架、IPA 与坐标生成"
+    },
+    {
+      "id": "P01:3.1.2",
+      "kind": "subsection",
+      "before": "AF3 的输入嵌入如何连接原子、token 与 pair",
+      "after": "AF3 输入嵌入：原子、token 与 pair 表示",
+      "anchor": "p01-3-1-2",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/3.1_AlphaFold3 的表示变化/3.1.2_AF3 的输入嵌入如何连接原子、token 与 pair",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/3.1_AlphaFold3 的表示变化/3.1.2_AF3 输入嵌入：原子、token 与 pair 表示"
+    },
+    {
+      "id": "P01:3.1.3",
+      "kind": "subsection",
+      "before": "Pairformer 如何形成扩散所需的结构条件",
+      "after": "Pairformer：条件表示与结构关系更新",
+      "anchor": "p01-3-1-3",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/3.1_AlphaFold3 的表示变化/3.1.3_Pairformer 如何形成扩散所需的结构条件",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/3.1_AlphaFold3 的表示变化/3.1.3_Pairformer：条件表示与结构关系更新"
+    },
+    {
+      "id": "P01:3.2.1",
+      "kind": "subsection",
+      "before": "从通用去噪到原子坐标扩散",
+      "after": "全原子坐标扩散与条件去噪",
+      "anchor": "p01-3-2-1",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/3.2_坐标生成机制/3.2.1_从通用去噪到原子坐标扩散",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/3.2_坐标生成机制/3.2.1_全原子坐标扩散与条件去噪"
+    },
+    {
+      "id": "P01:3.2.3",
+      "kind": "subsection",
+      "before": "多次结构采样如何产生不同候选",
+      "after": "结构采样：随机种子、多次生成与候选多样性",
+      "anchor": "p01-3-2-3",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/3.2_坐标生成机制/3.2.3_多次结构采样如何产生不同候选",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/3.2_坐标生成机制/3.2.3_结构采样：随机种子、多次生成与候选多样性"
+    },
+    {
+      "id": "P01:3.2.4",
+      "kind": "subsection",
+      "before": "置信度头怎样预测候选结构的可靠性",
+      "after": "结构置信度头：训练目标与候选可靠性预测",
+      "anchor": "p01-3-2-4",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/3.2_坐标生成机制/3.2.4_置信度头怎样预测候选结构的可靠性",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/3.2_坐标生成机制/3.2.4_结构置信度头：训练目标与候选可靠性预测"
+    },
+    {
+      "id": "P01:4.2.2",
+      "kind": "subsection",
+      "before": "Boltz-2 的亲和力任务如何连接结构建模",
+      "after": "Boltz-2 的结构建模与亲和力预测",
+      "anchor": "p01-4-2-2",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/4.2_Boltz 系列/4.2.2_Boltz-2 的亲和力任务如何连接结构建模",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/4.2_Boltz 系列/4.2.2_Boltz-2 的结构建模与亲和力预测"
+    },
+    {
+      "id": "P01:4.2.3",
+      "kind": "subsection",
+      "before": "结构与亲和力的联合结果怎样形成候选决策",
+      "after": "结构—亲和力联合判读与候选筛选",
+      "anchor": "p01-4-2-3",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/4.2_Boltz 系列/4.2.3_结构与亲和力的联合结果怎样形成候选决策",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/4.2_Boltz 系列/4.2.3_结构—亲和力联合判读与候选筛选"
+    },
+    {
+      "id": "P01:5",
+      "kind": "chapter",
+      "before": "如何选择输入并解释输出",
+      "after": "结构预测输入约束与输出判读",
+      "anchor": "p01-5",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md"
+    },
+    {
+      "id": "P01:5.1.1",
+      "kind": "subsection",
+      "before": "链拷贝数与生物学组装体怎样改变预测问题",
+      "after": "多链输入：链拷贝数、化学计量与生物学组装体",
+      "anchor": "p01-5-1-1",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/5.1_输入中的科学选择/5.1.1_链拷贝数与生物学组装体怎样改变预测问题",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/5.1_输入中的科学选择/5.1.1_多链输入：链拷贝数、化学计量与生物学组装体"
+    },
+    {
+      "id": "P01:5.1.2",
+      "kind": "subsection",
+      "before": "配体化学身份、修饰与共价连接怎样进入输入",
+      "after": "化学输入约束：配体身份、修饰与共价连接",
+      "anchor": "p01-5-1-2",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/5.1_输入中的科学选择/5.1.2_配体化学身份、修饰与共价连接怎样进入输入",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/5.1_输入中的科学选择/5.1.2_化学输入约束：配体身份、修饰与共价连接"
+    },
+    {
+      "id": "P01:5.1.3",
+      "kind": "subsection",
+      "before": "MSA、模板和用户约束：证据与先验如何区分",
+      "after": "输入证据与用户先验：MSA、模板和约束",
+      "anchor": "p01-5-1-3",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/5.1_输入中的科学选择/5.1.3_MSA、模板和用户约束：证据与先验如何区分",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/5.1_输入中的科学选择/5.1.3_输入证据与用户先验：MSA、模板和约束"
+    },
+    {
+      "id": "P01:5.2.2",
+      "kind": "subsection",
+      "before": "低同源、无序与构象变化下怎样构造预测对照",
+      "after": "预测对照：低同源、天然无序与构象变化",
+      "anchor": "p01-5-2-2",
+      "path": "content/专题知识/模型/生物分子结构预测/README.md",
+      "old_output_directory": "content/专题知识/模型/生物分子结构预测/5.2_结构评价与适用边界/5.2.2_低同源、无序与构象变化下怎样构造预测对照",
+      "new_output_directory": "content/专题知识/模型/生物分子结构预测/5.2_结构评价与适用边界/5.2.2_预测对照：低同源、天然无序与构象变化"
+    },
+    {
+      "id": "P02:1.1.1",
+      "kind": "subsection",
+      "before": "序列到结构、结构到序列与联合设计",
+      "after": "正向折叠、逆折叠与序列—结构联合设计",
+      "anchor": "p02-1-1-1",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/1.1_不同条件分布/1.1.1_序列到结构、结构到序列与联合设计",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/1.1_不同条件分布/1.1.1_正向折叠、逆折叠与序列—结构联合设计"
+    },
+    {
+      "id": "P02:2.1.1",
+      "kind": "subsection",
+      "before": "从通用扩散到残基框架生成",
+      "after": "RFdiffusion 的残基框架表示与结构去噪",
+      "anchor": "p02-2-1-1",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/2.1_结构去噪/2.1.1_从通用扩散到残基框架生成",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/2.1_结构去噪/2.1.1_RFdiffusion 的残基框架表示与结构去噪"
+    },
+    {
+      "id": "P02:2.2.2",
+      "kind": "subsection",
+      "before": "靶标热点怎样约束 binder 的结合面",
+      "after": "Binder 设计约束：靶标热点、表位与结合面",
+      "anchor": "p02-2-2-2",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/2.2_控制生成/2.2.2_靶标热点怎样约束 binder 的结合面",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/2.2_控制生成/2.2.2_Binder 设计约束：靶标热点、表位与结合面"
+    },
+    {
+      "id": "P02:2.2.3",
+      "kind": "subsection",
+      "before": "对称生成与部分扩散分别控制什么",
+      "after": "对称结构生成与部分扩散",
+      "anchor": "p02-2-2-3",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/2.2_控制生成/2.2.3_对称生成与部分扩散分别控制什么",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/2.2_控制生成/2.2.3_对称结构生成与部分扩散"
+    },
+    {
+      "id": "P02:3.1.1",
+      "kind": "subsection",
+      "before": "ProteinMPNN 怎样根据骨架图条件生成序列",
+      "after": "ProteinMPNN：骨架图编码与条件自回归解码",
+      "anchor": "p02-3-1-1",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/3.1_结构条件序列建模/3.1.1_ProteinMPNN 怎样根据骨架图条件生成序列",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/3.1_结构条件序列建模/3.1.1_ProteinMPNN：骨架图编码与条件自回归解码"
+    },
+    {
+      "id": "P02:3.2.2",
+      "kind": "subsection",
+      "before": "温度、序列损失与恢复率怎样筛选设计序列",
+      "after": "序列筛选：采样温度、负对数似然与恢复率",
+      "anchor": "p02-3-2-2",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/3.2_序列约束与选择/3.2.2_温度、序列损失与恢复率怎样筛选设计序列",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/3.2_序列约束与选择/3.2.2_序列筛选：采样温度、负对数似然与恢复率"
+    },
+    {
+      "id": "P02:4.1.1",
+      "kind": "subsection",
+      "before": "RFD4-Proteina 如何表达原子级设计条件",
+      "after": "RFD4-Proteina 的原子级条件与设计约束",
+      "anchor": "p02-4-1-1",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/4.1_RFD4-Proteina/4.1.1_RFD4-Proteina 如何表达原子级设计条件",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/4.1_RFD4-Proteina/4.1.1_RFD4-Proteina 的原子级条件与设计约束"
+    },
+    {
+      "id": "P02:4.1.2",
+      "kind": "subsection",
+      "before": "从基序支架到酶或小分子结合：任务边界怎样变化",
+      "after": "条件设计任务：基序支架、酶与小分子结合设计",
+      "anchor": "p02-4-1-2",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/4.1_RFD4-Proteina/4.1.2_从基序支架到酶或小分子结合：任务边界怎样变化",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/4.1_RFD4-Proteina/4.1.2_条件设计任务：基序支架、酶与小分子结合设计"
+    },
+    {
+      "id": "P02:4.2.1",
+      "kind": "subsection",
+      "before": "骨架、序列和回折叠怎样形成设计闭环",
+      "after": "蛋白设计流程：骨架生成、序列设计与回折叠验证",
+      "anchor": "p02-4-2-1",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/4.2_多阶段组合/4.2.1_骨架、序列和回折叠怎样形成设计闭环",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/4.2_多阶段组合/4.2.1_蛋白设计流程：骨架生成、序列设计与回折叠验证"
+    },
+    {
+      "id": "P02:5",
+      "kind": "chapter",
+      "before": "设计是否成功",
+      "after": "蛋白设计的计算评价与实验验证",
+      "anchor": "p02-5",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md"
+    },
+    {
+      "id": "P02:5.2.1",
+      "kind": "subsection",
+      "before": "怎样用实验和阴性对照判断一个设计是否成功",
+      "after": "设计实验验证：表达、结合、功能与阴性对照",
+      "anchor": "p02-5-2-1",
+      "path": "content/专题知识/模型/蛋白质生成与序列设计/README.md",
+      "old_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/5.2_实验证据/5.2.1_怎样用实验和阴性对照判断一个设计是否成功",
+      "new_output_directory": "content/专题知识/模型/蛋白质生成与序列设计/5.2_实验证据/5.2.1_设计实验验证：表达、结合、功能与阴性对照"
+    },
+    {
+      "id": "P03:1.1.1",
+      "kind": "subsection",
+      "before": "有复合物模板、只有抗原、只有序列是不同起点",
+      "after": "抗体建模输入：复合物模板、抗原结构与序列",
+      "anchor": "p03-1-1-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/1.1_结合条件/1.1.1_有复合物模板、只有抗原、只有序列是不同起点",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/1.1_结合条件/1.1.1_抗体建模输入：复合物模板、抗原结构与序列"
+    },
+    {
+      "id": "P03:2.1.1",
+      "kind": "subsection",
+      "before": "ImmuneBuilder 如何从免疫受体序列预测结构",
+      "after": "ImmuneBuilder：免疫受体结构预测、模型集成与精化",
+      "anchor": "p03-2-1-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/2.1_ImmuneBuilder/2.1.1_ImmuneBuilder 如何从免疫受体序列预测结构",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/2.1_ImmuneBuilder/2.1.1_ImmuneBuilder：免疫受体结构预测、模型集成与精化"
+    },
+    {
+      "id": "P03:2.2.1",
+      "kind": "subsection",
+      "before": "怎样比较抗体局部 CDR 与整体复合物预测",
+      "after": "抗体结构评估：CDR 局部精度与复合物姿态",
+      "anchor": "p03-2-2-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/2.2_通用模型与专用模型/2.2.1_怎样比较抗体局部 CDR 与整体复合物预测",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/2.2_通用模型与专用模型/2.2.1_抗体结构评估：CDR 局部精度与复合物姿态"
+    },
+    {
+      "id": "P03:3.1.1",
+      "kind": "subsection",
+      "before": "DiffAb 如何联合设计 CDR 序列与结构",
+      "after": "DiffAb：CDR 条件生成与序列—结构联合设计",
+      "anchor": "p03-3-1-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.1_DiffAb/3.1.1_DiffAb 如何联合设计 CDR 序列与结构",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.1_DiffAb/3.1.1_DiffAb：CDR 条件生成与序列—结构联合设计"
+    },
+    {
+      "id": "P03:3.2.1",
+      "kind": "subsection",
+      "before": "全原子等变图与序列结构协同更新",
+      "after": "dyMEAN：全原子等变图与序列—结构协同更新",
+      "anchor": "p03-3-2-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.2_dyMEAN/3.2.1_全原子等变图与序列结构协同更新",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.2_dyMEAN/3.2.1_dyMEAN：全原子等变图与序列—结构协同更新"
+    },
+    {
+      "id": "P03:3.2.2",
+      "kind": "subsection",
+      "before": "ddG 引导优化的代理目标与误差",
+      "after": "dyMEAN 亲和力优化：ddG 引导与代理误差",
+      "anchor": "p03-3-2-2",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.2_dyMEAN/3.2.2_ddG 引导优化的代理目标与误差",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.2_dyMEAN/3.2.2_dyMEAN 亲和力优化：ddG 引导与代理误差"
+    },
+    {
+      "id": "P03:3.3.1",
+      "kind": "subsection",
+      "before": "IgGM 的条件生成对象、表位与设计自由度",
+      "after": "IgGM：生成对象、表位条件与设计自由度",
+      "anchor": "p03-3-3-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.3_IgGM/3.3.1_IgGM 的条件生成对象、表位与设计自由度",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/3.3_IgGM/3.3.1_IgGM：生成对象、表位条件与设计自由度"
+    },
+    {
+      "id": "P03:4.1.1",
+      "kind": "subsection",
+      "before": "RFantibody 怎样连接骨架、序列和复合物验证",
+      "after": "RFantibody：骨架设计、序列生成与复合物验证",
+      "anchor": "p03-4-1-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/4.1_RFantibody/4.1.1_RFantibody 怎样连接骨架、序列和复合物验证",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/4.1_RFantibody/4.1.1_RFantibody：骨架设计、序列生成与复合物验证"
+    },
+    {
+      "id": "P03:4.2",
+      "kind": "section",
+      "before": "方法之间如何比较",
+      "after": "抗体设计方法的对照与评价",
+      "anchor": "p03-4-2",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md"
+    },
+    {
+      "id": "P03:5.1.1",
+      "kind": "subsection",
+      "before": "CDR 嫁接、V/J 胚系框架与目标物种",
+      "after": "ABFT 框架转换：CDR 嫁接、V/J 胚系与目标物种",
+      "anchor": "p03-5-1-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/5.1_ABFT/5.1.1_CDR 嫁接、V／J 胚系框架与目标物种",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/5.1_ABFT/5.1.1_ABFT 框架转换：CDR 嫁接、V／J 胚系与目标物种"
+    },
+    {
+      "id": "P03:5.2.1",
+      "kind": "subsection",
+      "before": "Sapiens 序列改造与 OASis 人源性评估",
+      "after": "BioPhi：Sapiens 人源化与 OASis 人源性评分",
+      "anchor": "p03-5-2-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/5.2_BioPhi/5.2.1_Sapiens 序列改造与 OASis 人源性评估",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/5.2_BioPhi/5.2.1_BioPhi：Sapiens 人源化与 OASis 人源性评分"
+    },
+    {
+      "id": "P03:6.1.1",
+      "kind": "subsection",
+      "before": "序列表征、结构特征与传统学习器",
+      "after": "ABDP 特征建模：序列嵌入、结构特征与传统学习器",
+      "anchor": "p03-6-1-1",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.1_序列表征、结构特征与传统学习器",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.1_ABDP 特征建模：序列嵌入、结构特征与传统学习器"
+    },
+    {
+      "id": "P03:6.1.2",
+      "kind": "subsection",
+      "before": "ABDP 的 pI/Tm 回归标签对应哪些实验读数",
+      "after": "ABDP 回归标签：pI、Tm 与实验读数",
+      "anchor": "p03-6-1-2",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.2_ABDP 的 pI／Tm 回归标签对应哪些实验读数",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.2_ABDP 回归标签：pI、Tm 与实验读数"
+    },
+    {
+      "id": "P03:6.1.3",
+      "kind": "subsection",
+      "before": "ABDP 的聚集与结合分类怎样形成标签",
+      "after": "ABDP 分类标签：聚集风险与抗原结合",
+      "anchor": "p03-6-1-3",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.3_ABDP 的聚集与结合分类怎样形成标签",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.3_ABDP 分类标签：聚集风险与抗原结合"
+    },
+    {
+      "id": "P03:6.1.4",
+      "kind": "subsection",
+      "before": "如何核对 ABDP 的任务、特征和适用范围",
+      "after": "ABDP 模型资料：任务定义、特征版本与适用范围",
+      "anchor": "p03-6-1-4",
+      "path": "content/专题知识/模型/抗体建模设计与可开发性/README.md",
+      "old_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.4_如何核对 ABDP 的任务、特征和适用范围",
+      "new_output_directory": "content/专题知识/模型/抗体建模设计与可开发性/6.1_ABDP 的任务与表征/6.1.4_ABDP 模型资料：任务定义、特征版本与适用范围"
+    },
+    {
+      "id": "P04:2.1.1",
+      "kind": "subsection",
+      "before": "AMP-Diffusion 如何从潜表示生成并筛选肽序列",
+      "after": "AMP-Diffusion：序列嵌入、潜空间扩散与解码筛选",
+      "anchor": "p04-2-1-1",
+      "path": "content/专题知识/模型/功能肽与环肽设计/README.md",
+      "old_output_directory": "content/专题知识/模型/功能肽与环肽设计/2.1_从序列到连续潜表示/2.1.1_AMP-Diffusion 如何从潜表示生成并筛选肽序列",
+      "new_output_directory": "content/专题知识/模型/功能肽与环肽设计/2.1_从序列到连续潜表示/2.1.1_AMP-Diffusion：序列嵌入、潜空间扩散与解码筛选"
+    },
+    {
+      "id": "P04:3.1.1",
+      "kind": "subsection",
+      "before": "APEX 如何预测多菌种 MIC 并解释集成结果",
+      "after": "APEX：多菌种 MIC 预测、模型集成与输出尺度",
+      "anchor": "p04-3-1-1",
+      "path": "content/专题知识/模型/功能肽与环肽设计/README.md",
+      "old_output_directory": "content/专题知识/模型/功能肽与环肽设计/3.1_多菌种预测/3.1.1_APEX 如何预测多菌种 MIC 并解释集成结果",
+      "new_output_directory": "content/专题知识/模型/功能肽与环肽设计/3.1_多菌种预测/3.1.1_APEX：多菌种 MIC 预测、模型集成与输出尺度"
+    },
+    {
+      "id": "P04:4.1.1",
+      "kind": "subsection",
+      "before": "HighFold 如何把环拓扑写入位置关系",
+      "after": "HighFold：环拓扑与 CycPOEM 位置编码",
+      "anchor": "p04-4-1-1",
+      "path": "content/专题知识/模型/功能肽与环肽设计/README.md",
+      "old_output_directory": "content/专题知识/模型/功能肽与环肽设计/4.1_环拓扑进入结构模型/4.1.1_HighFold 如何把环拓扑写入位置关系",
+      "new_output_directory": "content/专题知识/模型/功能肽与环肽设计/4.1_环拓扑进入结构模型/4.1.1_HighFold：环拓扑与 CycPOEM 位置编码"
+    },
+    {
+      "id": "P04:4.2.1",
+      "kind": "subsection",
+      "before": "环肽单体与蛋白复合物怎样被建模和核验",
+      "after": "环肽结构建模：单体、复合物、环闭合与二硫键约束",
+      "anchor": "p04-4-2-1",
+      "path": "content/专题知识/模型/功能肽与环肽设计/README.md",
+      "old_output_directory": "content/专题知识/模型/功能肽与环肽设计/4.2_单体与复合物/4.2.1_环肽单体与蛋白复合物怎样被建模和核验",
+      "new_output_directory": "content/专题知识/模型/功能肽与环肽设计/4.2_单体与复合物/4.2.1_环肽结构建模：单体、复合物、环闭合与二硫键约束"
+    },
+    {
+      "id": "P04:5.1.1",
+      "kind": "subsection",
+      "before": "生成、活性预测、结构预测与对接",
+      "after": "功能肽计算流程：序列生成、活性预测、结构预测与对接",
+      "anchor": "p04-5-1-1",
+      "path": "content/专题知识/模型/功能肽与环肽设计/README.md",
+      "old_output_directory": "content/专题知识/模型/功能肽与环肽设计/5.1_串联与交叉检查/5.1.1_生成、活性预测、结构预测与对接",
+      "new_output_directory": "content/专题知识/模型/功能肽与环肽设计/5.1_串联与交叉检查/5.1.1_功能肽计算流程：序列生成、活性预测、结构预测与对接"
+    },
+    {
+      "id": "P04:5.2.1",
+      "kind": "subsection",
+      "before": "从候选序列到功能肽的实验筛选闭环",
+      "after": "功能肽实验筛选：合成、纯度、活性、毒性与稳定性",
+      "anchor": "p04-5-2-1",
+      "path": "content/专题知识/模型/功能肽与环肽设计/README.md",
+      "old_output_directory": "content/专题知识/模型/功能肽与环肽设计/5.2_实验闭环/5.2.1_从候选序列到功能肽的实验筛选闭环",
+      "new_output_directory": "content/专题知识/模型/功能肽与环肽设计/5.2_实验闭环/5.2.1_功能肽实验筛选：合成、纯度、活性、毒性与稳定性"
+    },
+    {
+      "id": "P05:2",
+      "kind": "chapter",
+      "before": "结合位点如何发现",
+      "after": "结合位点检测方法",
+      "anchor": "p05-2",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md"
+    },
+    {
+      "id": "P05:2.1.1",
+      "kind": "subsection",
+      "before": "fpocket 怎样从几何空腔形成候选口袋",
+      "after": "fpocket：空腔几何、alpha spheres 与口袋描述符",
+      "anchor": "p05-2-1-1",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md",
+      "old_output_directory": "content/专题知识/模型/结合位点与分子对接/2.1_几何路线 fpocket/2.1.1_fpocket 怎样从几何空腔形成候选口袋",
+      "new_output_directory": "content/专题知识/模型/结合位点与分子对接/2.1_几何路线 fpocket/2.1.1_fpocket：空腔几何、alpha spheres 与口袋描述符"
+    },
+    {
+      "id": "P05:2.2.1",
+      "kind": "subsection",
+      "before": "P2Rank 怎样把表面预测点汇成结合位点",
+      "after": "P2Rank：表面特征、概率点与口袋聚类",
+      "anchor": "p05-2-2-1",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md",
+      "old_output_directory": "content/专题知识/模型/结合位点与分子对接/2.2_学习路线 P2Rank/2.2.1_P2Rank 怎样把表面预测点汇成结合位点",
+      "new_output_directory": "content/专题知识/模型/结合位点与分子对接/2.2_学习路线 P2Rank/2.2.1_P2Rank：表面特征、概率点与口袋聚类"
+    },
+    {
+      "id": "P05:3.1.1",
+      "kind": "subsection",
+      "before": "DiffDock 如何在平移、旋转与扭转空间生成姿态",
+      "after": "DiffDock：平移、旋转与扭转扩散",
+      "anchor": "p05-3-1-1",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md",
+      "old_output_directory": "content/专题知识/模型/结合位点与分子对接/3.1_生成空间/3.1.1_DiffDock 如何在平移、旋转与扭转空间生成姿态",
+      "new_output_directory": "content/专题知识/模型/结合位点与分子对接/3.1_生成空间/3.1.1_DiffDock：平移、旋转与扭转扩散"
+    },
+    {
+      "id": "P05:3.2.1",
+      "kind": "subsection",
+      "before": "DiffDock 如何训练置信度模型并排序采样结果",
+      "after": "DiffDock：置信度模型训练与候选姿态排序",
+      "anchor": "p05-3-2-1",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md",
+      "old_output_directory": "content/专题知识/模型/结合位点与分子对接/3.2_候选选择/3.2.1_DiffDock 如何训练置信度模型并排序采样结果",
+      "new_output_directory": "content/专题知识/模型/结合位点与分子对接/3.2_候选选择/3.2.1_DiffDock：置信度模型训练与候选姿态排序"
+    },
+    {
+      "id": "P05:4.1.1",
+      "kind": "subsection",
+      "before": "DiffPepDock 怎样以靶标条件采样柔性肽姿态",
+      "after": "DiffPepDock：靶标条件、肽柔性与姿态采样",
+      "anchor": "p05-4-1-1",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md",
+      "old_output_directory": "content/专题知识/模型/结合位点与分子对接/4.1_柔性与表征/4.1.1_DiffPepDock 怎样以靶标条件采样柔性肽姿态",
+      "new_output_directory": "content/专题知识/模型/结合位点与分子对接/4.1_柔性与表征/4.1.1_DiffPepDock：靶标条件、肽柔性与姿态采样"
+    },
+    {
+      "id": "P05:4.2.1",
+      "kind": "subsection",
+      "before": "肽对接的约束、精化与后处理怎样影响结果",
+      "after": "肽对接后处理：构象约束、侧链精化与能量筛选",
+      "anchor": "p05-4-2-1",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md",
+      "old_output_directory": "content/专题知识/模型/结合位点与分子对接/4.2_约束和后处理/4.2.1_肽对接的约束、精化与后处理怎样影响结果",
+      "new_output_directory": "content/专题知识/模型/结合位点与分子对接/4.2_约束和后处理/4.2.1_肽对接后处理：构象约束、侧链精化与能量筛选"
+    },
+    {
+      "id": "P05:5",
+      "kind": "chapter",
+      "before": "如何知道姿态可靠",
+      "after": "对接姿态评价与实验证据",
+      "anchor": "p05-5",
+      "path": "content/专题知识/模型/结合位点与分子对接/README.md"
+    },
+    {
+      "id": "P06:1",
+      "kind": "chapter",
+      "before": "生成什么对象",
+      "after": "分子生成对象、表示与任务类型",
+      "anchor": "p06-1",
+      "path": "content/专题知识/模型/小分子与科学对象生成/README.md"
+    },
+    {
+      "id": "P06:1.1.1",
+      "kind": "subsection",
+      "before": "SAFE 表示与 GenMol 离散去噪怎样共同生成分子",
+      "after": "GenMol：SAFE 片段表示与离散掩码去噪",
+      "anchor": "p06-1-1-1",
+      "path": "content/专题知识/模型/小分子与科学对象生成/README.md",
+      "old_output_directory": "content/专题知识/模型/小分子与科学对象生成/1.1_分子表示/1.1.1_SAFE 表示与 GenMol 离散去噪怎样共同生成分子",
+      "new_output_directory": "content/专题知识/模型/小分子与科学对象生成/1.1_分子表示/1.1.1_GenMol：SAFE 片段表示与离散掩码去噪"
+    },
+    {
+      "id": "P06:2.1.1",
+      "kind": "subsection",
+      "before": "GenMol 如何做片段补全、连接和分子编辑",
+      "after": "GenMol 分子编辑：片段补全、连接与重采样",
+      "anchor": "p06-2-1-1",
+      "path": "content/专题知识/模型/小分子与科学对象生成/README.md",
+      "old_output_directory": "content/专题知识/模型/小分子与科学对象生成/2.1_分子编辑与探索/2.1.1_GenMol 如何做片段补全、连接和分子编辑",
+      "new_output_directory": "content/专题知识/模型/小分子与科学对象生成/2.1_分子编辑与探索/2.1.1_GenMol 分子编辑：片段补全、连接与重采样"
+    },
+    {
+      "id": "P06:3.1.1",
+      "kind": "subsection",
+      "before": "LOGOS 怎样用科学语法表达条件并生成对象",
+      "after": "LOGOS：科学对象语法、条件编码与自回归解码",
+      "anchor": "p06-3-1-1",
+      "path": "content/专题知识/模型/小分子与科学对象生成/README.md",
+      "old_output_directory": "content/专题知识/模型/小分子与科学对象生成/3.1_表示与条件/3.1.1_LOGOS 怎样用科学语法表达条件并生成对象",
+      "new_output_directory": "content/专题知识/模型/小分子与科学对象生成/3.1_表示与条件/3.1.1_LOGOS：科学对象语法、条件编码与自回归解码"
+    },
+    {
+      "id": "P06:3.2.1",
+      "kind": "subsection",
+      "before": "LOGOS 不同任务怎样改变条件与输出对象",
+      "after": "LOGOS 任务分支：Ligand、Pocket 与逆反应生成",
+      "anchor": "p06-3-2-1",
+      "path": "content/专题知识/模型/小分子与科学对象生成/README.md",
+      "old_output_directory": "content/专题知识/模型/小分子与科学对象生成/3.2_任务分支/3.2.1_LOGOS 不同任务怎样改变条件与输出对象",
+      "new_output_directory": "content/专题知识/模型/小分子与科学对象生成/3.2_任务分支/3.2.1_LOGOS 任务分支：Ligand、Pocket 与逆反应生成"
+    },
+    {
+      "id": "P06:4.1.1",
+      "kind": "subsection",
+      "before": "MolMIM 怎样在连续潜空间中优化分子",
+      "after": "MolMIM：分子编码、连续潜空间与性质优化",
+      "anchor": "p06-4-1-1",
+      "path": "content/专题知识/模型/小分子与科学对象生成/README.md",
+      "old_output_directory": "content/专题知识/模型/小分子与科学对象生成/4.1_MolMIM/4.1.1_MolMIM 怎样在连续潜空间中优化分子",
+      "new_output_directory": "content/专题知识/模型/小分子与科学对象生成/4.1_MolMIM/4.1.1_MolMIM：分子编码、连续潜空间与性质优化"
+    },
+    {
+      "id": "P06:5.1.1",
+      "kind": "subsection",
+      "before": "生成分子的有效性与可合成性怎样分层检查",
+      "after": "分子生成质量：语法有效性、化学合法性与可合成性",
+      "anchor": "p06-5-1-1",
+      "path": "content/专题知识/模型/小分子与科学对象生成/README.md",
+      "old_output_directory": "content/专题知识/模型/小分子与科学对象生成/5.1_分层评价/5.1.1_生成分子的有效性与可合成性怎样分层检查",
+      "new_output_directory": "content/专题知识/模型/小分子与科学对象生成/5.1_分层评价/5.1.1_分子生成质量：语法有效性、化学合法性与可合成性"
+    },
+    {
+      "id": "P07:1.2.2",
+      "kind": "subsection",
+      "before": "调控、剪接和翻译效率是不同预测目标",
+      "after": "核酸预测目标：基因调控、剪接与翻译效率",
+      "anchor": "p07-1-2-2",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/1.2_结构与功能/1.2.2_调控、剪接和翻译效率是不同预测目标",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/1.2_结构与功能/1.2.2_核酸预测目标：基因调控、剪接与翻译效率"
+    },
+    {
+      "id": "P07:2.1.1",
+      "kind": "subsection",
+      "before": "Evo 2 怎样通过长上下文架构学习基因组序列",
+      "after": "Evo 2：StripedHyena 架构与长上下文预训练",
+      "anchor": "p07-2-1-1",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/2.1_架构与预训练/2.1.1_Evo 2 怎样通过长上下文架构学习基因组序列",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/2.1_架构与预训练/2.1.1_Evo 2：StripedHyena 架构与长上下文预训练"
+    },
+    {
+      "id": "P07:2.2.1",
+      "kind": "subsection",
+      "before": "Evo 2 的生成、打分和表征分别输出什么",
+      "after": "Evo 2 推理任务：序列生成、似然评分与表征提取",
+      "anchor": "p07-2-2-1",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/2.2_序列推断与生成/2.2.1_Evo 2 的生成、打分和表征分别输出什么",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/2.2_序列推断与生成/2.2.1_Evo 2 推理任务：序列生成、似然评分与表征提取"
+    },
+    {
+      "id": "P07:2.2.2",
+      "kind": "subsection",
+      "before": "怎样用序列分数构造可检验的变异效应假设",
+      "after": "序列评分与变异效应：似然比较与功能验证",
+      "anchor": "p07-2-2-2",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/2.2_序列推断与生成/2.2.2_怎样用序列分数构造可检验的变异效应假设",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/2.2_序列推断与生成/2.2.2_序列评分与变异效应：似然比较与功能验证"
+    },
+    {
+      "id": "P07:3.1.1",
+      "kind": "subsection",
+      "before": "RNA-FM 与 mRNA-FM 的语料和编码单位为何不同",
+      "after": "RNA-FM 与 mRNA-FM：预训练语料、编码单位与输入约束",
+      "anchor": "p07-3-1-1",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/3.1_预训练对象/3.1.1_RNA-FM 与 mRNA-FM 的语料和编码单位为何不同",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/3.1_预训练对象/3.1.1_RNA-FM 与 mRNA-FM：预训练语料、编码单位与输入约束"
+    },
+    {
+      "id": "P07:3.2.1",
+      "kind": "subsection",
+      "before": "核酸模型嵌入怎样进入接触、结构或功能任务",
+      "after": "核酸嵌入的下游建模：接触图、结构与功能任务头",
+      "anchor": "p07-3-2-1",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/3.2_表征到任务/3.2.1_核酸模型嵌入怎样进入接触、结构或功能任务",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/3.2_表征到任务/3.2.1_核酸嵌入的下游建模：接触图、结构与功能任务头"
+    },
+    {
+      "id": "P07:4.1.1",
+      "kind": "subsection",
+      "before": "RNA 最近邻能量模型怎样评价一个结构",
+      "after": "RNA 最近邻能量模型：碱基堆叠与环能量",
+      "anchor": "p07-4-1-1",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.1_从能量到结构/4.1.1_RNA 最近邻能量模型怎样评价一个结构",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.1_从能量到结构/4.1.1_RNA 最近邻能量模型：碱基堆叠与环能量"
+    },
+    {
+      "id": "P07:4.1.2",
+      "kind": "subsection",
+      "before": "动态规划怎样搜索最小自由能结构",
+      "after": "RNA 最小自由能搜索：动态规划与结构约束",
+      "anchor": "p07-4-1-2",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.1_从能量到结构/4.1.2_动态规划怎样搜索最小自由能结构",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.1_从能量到结构/4.1.2_RNA 最小自由能搜索：动态规划与结构约束"
+    },
+    {
+      "id": "P07:4.2.2",
+      "kind": "subsection",
+      "before": "温度与硬软约束怎样改变 RNA 折叠结果",
+      "after": "RNA 折叠条件：温度、硬约束与软约束",
+      "anchor": "p07-4-2-2",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.2_代表结构与条件/4.2.2_温度与硬软约束怎样改变 RNA 折叠结果",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.2_代表结构与条件/4.2.2_RNA 折叠条件：温度、硬约束与软约束"
+    },
+    {
+      "id": "P07:4.2.3",
+      "kind": "subsection",
+      "before": "环状 RNA 与局部折叠怎样改变问题边界",
+      "after": "环状 RNA 拓扑与局部折叠窗口",
+      "anchor": "p07-4-2-3",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.2_代表结构与条件/4.2.3_环状 RNA 与局部折叠怎样改变问题边界",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/4.2_代表结构与条件/4.2.3_环状 RNA 拓扑与局部折叠窗口"
+    },
+    {
+      "id": "P07:5",
+      "kind": "chapter",
+      "before": "如何比较不同路线",
+      "after": "核酸建模的评价指标与适用边界",
+      "anchor": "p07-5",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md"
+    },
+    {
+      "id": "P07:5.1.2",
+      "kind": "subsection",
+      "before": "热力学折叠与细胞内 RNA 结构为什么不同",
+      "after": "细胞内 RNA 折叠：假结、修饰、离子与蛋白结合",
+      "anchor": "p07-5-1-2",
+      "path": "content/专题知识/模型/核酸序列与结构建模/README.md",
+      "old_output_directory": "content/专题知识/模型/核酸序列与结构建模/5.1_测量与评价/5.1.2_热力学折叠与细胞内 RNA 结构为什么不同",
+      "new_output_directory": "content/专题知识/模型/核酸序列与结构建模/5.1_测量与评价/5.1.2_细胞内 RNA 折叠：假结、修饰、离子与蛋白结合"
+    },
+    {
+      "id": "P08:2.1.1",
+      "kind": "subsection",
+      "before": "SCP 的质控与特征选择如何改变后续细胞关系",
+      "after": "SCP 预处理：质量控制、高变基因与特征选择",
+      "anchor": "p08-2-1-1",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/2.1_从质量控制到细胞关系/2.1.1_SCP 的质控与特征选择如何改变后续细胞关系",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/2.1_从质量控制到细胞关系/2.1.1_SCP 预处理：质量控制、高变基因与特征选择"
+    },
+    {
+      "id": "P08:2.1.2",
+      "kind": "subsection",
+      "before": "怎样读懂 SCP 的邻接图、聚类与 UMAP 输出",
+      "after": "SCP 分析输出：邻接图、Louvain 聚类与 UMAP",
+      "anchor": "p08-2-1-2",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/2.1_从质量控制到细胞关系/2.1.2_怎样读懂 SCP 的邻接图、聚类与 UMAP 输出",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/2.1_从质量控制到细胞关系/2.1.2_SCP 分析输出：邻接图、Louvain 聚类与 UMAP"
+    },
+    {
+      "id": "P08:3.1.2",
+      "kind": "subsection",
+      "before": "scVI 的生成图如何容纳文库大小和批次",
+      "after": "scVI 生成模型：潜变量、文库大小与批次协变量",
+      "anchor": "p08-3-1-2",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.1_计数生成模型/3.1.2_scVI 的生成图如何容纳文库大小和批次",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.1_计数生成模型/3.1.2_scVI 生成模型：潜变量、文库大小与批次协变量"
+    },
+    {
+      "id": "P08:3.1.3",
+      "kind": "subsection",
+      "before": "scVI 怎样通过变分推断训练计数模型",
+      "after": "scVI 训练：计数似然、变分推断与后验估计",
+      "anchor": "p08-3-1-3",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.1_计数生成模型/3.1.3_scVI 怎样通过变分推断训练计数模型",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.1_计数生成模型/3.1.3_scVI 训练：计数似然、变分推断与后验估计"
+    },
+    {
+      "id": "P08:3.2.1",
+      "kind": "subsection",
+      "before": "嵌入、去噪和批次整合",
+      "after": "scVI 潜空间：细胞嵌入、表达去噪与批次整合",
+      "anchor": "p08-3-2-1",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.2_潜空间与下游统计/3.2.1_嵌入、去噪和批次整合",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.2_潜空间与下游统计/3.2.1_scVI 潜空间：细胞嵌入、表达去噪与批次整合"
+    },
+    {
+      "id": "P08:3.2.2",
+      "kind": "subsection",
+      "before": "模型条件下的差异表达与统计单位",
+      "after": "scVI 差异表达：模型条件与统计单位",
+      "anchor": "p08-3-2-2",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.2_潜空间与下游统计/3.2.2_模型条件下的差异表达与统计单位",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/3.2_潜空间与下游统计/3.2.2_scVI 差异表达：模型条件与统计单位"
+    },
+    {
+      "id": "P08:4.1.1",
+      "kind": "subsection",
+      "before": "scANVI 如何把参考标签迁移到查询细胞",
+      "after": "scANVI：半监督训练、参考映射与查询适配",
+      "anchor": "p08-4-1-1",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/4.1_从 scVI 到标签建模/4.1.1_scANVI 如何把参考标签迁移到查询细胞",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/4.1_从 scVI 到标签建模/4.1.1_scANVI：半监督训练、参考映射与查询适配"
+    },
+    {
+      "id": "P08:4.2.1",
+      "kind": "subsection",
+      "before": "标签迁移怎样识别未知类型和不可靠标签",
+      "after": "scANVI 标签置信度：概率校准、未知类型与稀有类型",
+      "anchor": "p08-4-2-1",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/4.2_置信度与未知类型/4.2.1_标签迁移怎样识别未知类型和不可靠标签",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/4.2_置信度与未知类型/4.2.1_scANVI 标签置信度：概率校准、未知类型与稀有类型"
+    },
+    {
+      "id": "P08:5.1.1",
+      "kind": "subsection",
+      "before": "TranscriptFormer 怎样组织跨物种基因表示",
+      "after": "TranscriptFormer：跨物种基因表示与同源信息",
+      "anchor": "p08-5-1-1",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.1_TranscriptFormer/5.1.1_TranscriptFormer 怎样组织跨物种基因表示",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.1_TranscriptFormer/5.1.1_TranscriptFormer：跨物种基因表示与同源信息"
+    },
+    {
+      "id": "P08:5.1.2",
+      "kind": "subsection",
+      "before": "TranscriptFormer 的表达预训练在学习什么",
+      "after": "TranscriptFormer：表达编码与预训练目标",
+      "anchor": "p08-5-1-2",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.1_TranscriptFormer/5.1.2_TranscriptFormer 的表达预训练在学习什么",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.1_TranscriptFormer/5.1.2_TranscriptFormer：表达编码与预训练目标"
+    },
+    {
+      "id": "P08:5.1.3",
+      "kind": "subsection",
+      "before": "细胞全局表征与上下文基因表征",
+      "after": "TranscriptFormer：细胞全局表征与上下文基因表征",
+      "anchor": "p08-5-1-3",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.1_TranscriptFormer/5.1.3_细胞全局表征与上下文基因表征",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.1_TranscriptFormer/5.1.3_TranscriptFormer：细胞全局表征与上下文基因表征"
+    },
+    {
+      "id": "P08:5.2.1",
+      "kind": "subsection",
+      "before": "Tahoe-x1 怎样从扰动语料得到细胞表征",
+      "after": "Tahoe-x1：扰动语料预训练、表达编码与细胞嵌入",
+      "anchor": "p08-5-2-1",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md",
+      "old_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.2_Tahoe-x1/5.2.1_Tahoe-x1 怎样从扰动语料得到细胞表征",
+      "new_output_directory": "content/专题知识/模型/单细胞分析与基础模型/5.2_Tahoe-x1/5.2.1_Tahoe-x1：扰动语料预训练、表达编码与细胞嵌入"
+    },
+    {
+      "id": "P08:5.3",
+      "kind": "section",
+      "before": "不同表征如何比较",
+      "after": "单细胞表征的输入差异与迁移评估",
+      "anchor": "p08-5-3",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md"
+    },
+    {
+      "id": "P08:6",
+      "kind": "chapter",
+      "before": "评估是否保留真正的生物学",
+      "after": "单细胞整合评价与生物差异保持",
+      "anchor": "p08-6",
+      "path": "content/专题知识/模型/单细胞分析与基础模型/README.md"
+    },
+    {
+      "id": "P09:2.1.2",
+      "kind": "subsection",
+      "before": "GEARS 如何把细胞状态与扰动图组合成预测",
+      "after": "GEARS：细胞状态编码、扰动图与表达预测",
+      "anchor": "p09-2-1-2",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md",
+      "old_output_directory": "content/专题知识/模型/细胞扰动响应预测/2.1_基因与图先验/2.1.2_GEARS 如何把细胞状态与扰动图组合成预测",
+      "new_output_directory": "content/专题知识/模型/细胞扰动响应预测/2.1_基因与图先验/2.1.2_GEARS：细胞状态编码、扰动图与表达预测"
+    },
+    {
+      "id": "P09:2.1.3",
+      "kind": "subsection",
+      "before": "GEARS 如何学习和检验组合扰动的非加性",
+      "after": "GEARS：组合扰动与非加性效应",
+      "anchor": "p09-2-1-3",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md",
+      "old_output_directory": "content/专题知识/模型/细胞扰动响应预测/2.1_基因与图先验/2.1.3_GEARS 如何学习和检验组合扰动的非加性",
+      "new_output_directory": "content/专题知识/模型/细胞扰动响应预测/2.1_基因与图先验/2.1.3_GEARS：组合扰动与非加性效应"
+    },
+    {
+      "id": "P09:2.2.1",
+      "kind": "subsection",
+      "before": "未见基因和未见组合如何构成不同外推任务",
+      "after": "遗传扰动泛化：未见基因、未见组合与先验覆盖",
+      "anchor": "p09-2-2-1",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md",
+      "old_output_directory": "content/专题知识/模型/细胞扰动响应预测/2.2_未见组合与外推/2.2.1_未见基因和未见组合如何构成不同外推任务",
+      "new_output_directory": "content/专题知识/模型/细胞扰动响应预测/2.2_未见组合与外推/2.2.1_遗传扰动泛化：未见基因、未见组合与先验覆盖"
+    },
+    {
+      "id": "P09:3.1.1",
+      "kind": "subsection",
+      "before": "chemCPA 如何组合基础细胞状态、药物与剂量",
+      "after": "chemCPA：基础细胞状态、化学嵌入、剂量函数与解码",
+      "anchor": "p09-3-1-1",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md",
+      "old_output_directory": "content/专题知识/模型/细胞扰动响应预测/3.1_可组合潜表示/3.1.1_chemCPA 如何组合基础细胞状态、药物与剂量",
+      "new_output_directory": "content/专题知识/模型/细胞扰动响应预测/3.1_可组合潜表示/3.1.1_chemCPA：基础细胞状态、化学嵌入、剂量函数与解码"
+    },
+    {
+      "id": "P09:4",
+      "kind": "chapter",
+      "before": "数据如何支撑模型训练",
+      "after": "扰动预测数据的构建与特征对齐",
+      "anchor": "p09-4",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md"
+    },
+    {
+      "id": "P09:5.1.2",
+      "kind": "subsection",
+      "before": "均值、差异基因与效应方向怎样评价扰动预测",
+      "after": "扰动均值预测评估：差异基因、效应量与变化方向",
+      "anchor": "p09-5-1-2",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md",
+      "old_output_directory": "content/专题知识/模型/细胞扰动响应预测/5.1_基线与指标/5.1.2_均值、差异基因与效应方向怎样评价扰动预测",
+      "new_output_directory": "content/专题知识/模型/细胞扰动响应预测/5.1_基线与指标/5.1.2_扰动均值预测评估：差异基因、效应量与变化方向"
+    },
+    {
+      "id": "P09:5.1.3",
+      "kind": "subsection",
+      "before": "怎样评价细胞状态分布与异质性响应",
+      "after": "扰动分布预测评估：细胞状态分布与响应异质性",
+      "anchor": "p09-5-1-3",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md",
+      "old_output_directory": "content/专题知识/模型/细胞扰动响应预测/5.1_基线与指标/5.1.3_怎样评价细胞状态分布与异质性响应",
+      "new_output_directory": "content/专题知识/模型/细胞扰动响应预测/5.1_基线与指标/5.1.3_扰动分布预测评估：细胞状态分布与响应异质性"
+    },
+    {
+      "id": "P09:5.2.1",
+      "kind": "subsection",
+      "before": "怎样设计一个没有对照泄漏的扰动预测验证",
+      "after": "扰动验证设计：匹配对照、数据泄漏与跨背景验证",
+      "anchor": "p09-5-2-1",
+      "path": "content/专题知识/模型/细胞扰动响应预测/README.md",
+      "old_output_directory": "content/专题知识/模型/细胞扰动响应预测/5.2_生物学验证/5.2.1_怎样设计一个没有对照泄漏的扰动预测验证",
+      "new_output_directory": "content/专题知识/模型/细胞扰动响应预测/5.2_生物学验证/5.2.1_扰动验证设计：匹配对照、数据泄漏与跨背景验证"
+    },
+    {
+      "id": "P10:1",
+      "kind": "chapter",
+      "before": "为什么需要不止一个结构",
+      "after": "构象系综、热力学与分子动力学",
+      "anchor": "p10-1",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md"
+    },
+    {
+      "id": "P10:2.1.1",
+      "kind": "subsection",
+      "before": "力场和拓扑如何把分子变成可模拟对象",
+      "after": "分子模拟建模：力场参数与分子拓扑",
+      "anchor": "p10-2-1-1",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.1_建立模拟体系/2.1.1_力场和拓扑如何把分子变成可模拟对象",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.1_建立模拟体系/2.1.1_分子模拟建模：力场参数与分子拓扑"
+    },
+    {
+      "id": "P10:2.1.2",
+      "kind": "subsection",
+      "before": "溶剂、离子与周期边界如何定义模拟环境",
+      "after": "模拟环境：溶剂、离子与周期边界条件",
+      "anchor": "p10-2-1-2",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.1_建立模拟体系/2.1.2_溶剂、离子与周期边界如何定义模拟环境",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.1_建立模拟体系/2.1.2_模拟环境：溶剂、离子与周期边界条件"
+    },
+    {
+      "id": "P10:2.2.1",
+      "kind": "subsection",
+      "before": "时间积分、步长与约束怎样影响数值稳定性",
+      "after": "数值积分：时间步长、几何约束与稳定性",
+      "anchor": "p10-2-2-1",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.2_数值积分与系综/2.2.1_时间积分、步长与约束怎样影响数值稳定性",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.2_数值积分与系综/2.2.1_数值积分：时间步长、几何约束与稳定性"
+    },
+    {
+      "id": "P10:2.2.2",
+      "kind": "subsection",
+      "before": "恒温、恒压与统计系综怎样对应物理条件",
+      "after": "统计系综：恒温、恒压与采样分布",
+      "anchor": "p10-2-2-2",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.2_数值积分与系综/2.2.2_恒温、恒压与统计系综怎样对应物理条件",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/2.2_数值积分与系综/2.2.2_统计系综：恒温、恒压与采样分布"
+    },
+    {
+      "id": "P10:3.1.1",
+      "kind": "subsection",
+      "before": "怎样联合读懂 RMSD、RMSF、回转半径与接触",
+      "after": "轨迹分析指标：RMSD、RMSF、回转半径与接触占有率",
+      "anchor": "p10-3-1-1",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/3.1_基本观测量/3.1.1_怎样联合读懂 RMSD、RMSF、回转半径与接触",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/3.1_基本观测量/3.1.1_轨迹分析指标：RMSD、RMSF、回转半径与接触占有率"
+    },
+    {
+      "id": "P10:3.2.2",
+      "kind": "subsection",
+      "before": "罕见事件为什么使普通轨迹难以收敛",
+      "after": "稀有事件采样：自由能势垒、模拟时间与收敛",
+      "anchor": "p10-3-2-2",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/3.2_采样质量/3.2.2_罕见事件为什么使普通轨迹难以收敛",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/3.2_采样质量/3.2.2_稀有事件采样：自由能势垒、模拟时间与收敛"
+    },
+    {
+      "id": "P10:3.2.3",
+      "kind": "subsection",
+      "before": "增强采样怎样改变探索并恢复统计解释",
+      "after": "增强采样：偏置势、重加权与统计解释",
+      "anchor": "p10-3-2-3",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/3.2_采样质量/3.2.3_增强采样怎样改变探索并恢复统计解释",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/3.2_采样质量/3.2.3_增强采样：偏置势、重加权与统计解释"
+    },
+    {
+      "id": "P10:4.1.1",
+      "kind": "subsection",
+      "before": "BioEmu2 的平衡系综采样与结构预测有何区别",
+      "after": "BioEmu2：平衡系综采样与结构预测",
+      "anchor": "p10-4-1-1",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.1_不同任务的边界/4.1.1_BioEmu2 的平衡系综采样与结构预测有何区别",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.1_不同任务的边界/4.1.1_BioEmu2：平衡系综采样与结构预测"
+    },
+    {
+      "id": "P10:4.1.2",
+      "kind": "subsection",
+      "before": "BioEmu2 的时间传播怎样被定义和验证",
+      "after": "BioEmu2：时间传播任务与动力学验证",
+      "anchor": "p10-4-1-2",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.1_不同任务的边界/4.1.2_BioEmu2 的时间传播怎样被定义和验证",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.1_不同任务的边界/4.1.2_BioEmu2：时间传播任务与动力学验证"
+    },
+    {
+      "id": "P10:4.1.3",
+      "kind": "subsection",
+      "before": "序列、MSA、结构条件与检查点适用范围",
+      "after": "BioEmu2 输入条件：序列、MSA、结构与检查点范围",
+      "anchor": "p10-4-1-3",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.1_不同任务的边界/4.1.3_序列、MSA、结构条件与检查点适用范围",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.1_不同任务的边界/4.1.3_BioEmu2 输入条件：序列、MSA、结构与检查点范围"
+    },
+    {
+      "id": "P10:4.2.1",
+      "kind": "subsection",
+      "before": "构象生成与学习到的系综",
+      "after": "BioEmu2 构象生成与系综分布",
+      "anchor": "p10-4-2-1",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.2_从生成机制到物理解释/4.2.1_构象生成与学习到的系综",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/4.2_从生成机制到物理解释/4.2.1_BioEmu2 构象生成与系综分布"
+    },
+    {
+      "id": "P10:5",
+      "kind": "chapter",
+      "before": "两种路线如何互补",
+      "after": "学习构象生成与物理模拟的联合验证",
+      "anchor": "p10-5",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md"
+    },
+    {
+      "id": "P10:5.1.1",
+      "kind": "subsection",
+      "before": "生成构象如何进入物理模拟并检验系综假设",
+      "after": "生成构象与物理模拟：初始化、平衡与系综验证",
+      "anchor": "p10-5-1-1",
+      "path": "content/专题知识/模型/分子动力学与构象系综/README.md",
+      "old_output_directory": "content/专题知识/模型/分子动力学与构象系综/5.1_比较与精化/5.1.1_生成构象如何进入物理模拟并检验系综假设",
+      "new_output_directory": "content/专题知识/模型/分子动力学与构象系综/5.1_比较与精化/5.1.1_生成构象与物理模拟：初始化、平衡与系综验证"
+    },
+    {
+      "id": "P11:1.1.1",
+      "kind": "subsection",
+      "before": "科研文档中的文字、布局、表格与图像是什么对象",
+      "after": "科研文档要素：文本、版面、表格、公式与图像",
+      "anchor": "p11-1-1-1",
+      "path": "content/专题知识/模型/科研文档与图像信息提取/README.md",
+      "old_output_directory": "content/专题知识/模型/科研文档与图像信息提取/1.1_数据对象/1.1.1_科研文档中的文字、布局、表格与图像是什么对象",
+      "new_output_directory": "content/专题知识/模型/科研文档与图像信息提取/1.1_数据对象/1.1.1_科研文档要素：文本、版面、表格、公式与图像"
+    },
+    {
+      "id": "P11:2.1.1",
+      "kind": "subsection",
+      "before": "文档解析如何恢复阅读顺序和跨页结构",
+      "after": "文档结构解析：版面分析、阅读顺序与跨页分块",
+      "anchor": "p11-2-1-1",
+      "path": "content/专题知识/模型/科研文档与图像信息提取/README.md",
+      "old_output_directory": "content/专题知识/模型/科研文档与图像信息提取/2.1_从页面到内容/2.1.1_文档解析如何恢复阅读顺序和跨页结构",
+      "new_output_directory": "content/专题知识/模型/科研文档与图像信息提取/2.1_从页面到内容/2.1.1_文档结构解析：版面分析、阅读顺序与跨页分块"
+    },
+    {
+      "id": "P11:2.2.1",
+      "kind": "subsection",
+      "before": "公式和表格为何需要专门的结构复核",
+      "after": "公式与表格复核：符号、单位、表头与单元格结构",
+      "anchor": "p11-2-2-1",
+      "path": "content/专题知识/模型/科研文档与图像信息提取/README.md",
+      "old_output_directory": "content/专题知识/模型/科研文档与图像信息提取/2.2_科研文档难点/2.2.1_公式和表格为何需要专门的结构复核",
+      "new_output_directory": "content/专题知识/模型/科研文档与图像信息提取/2.2_科研文档难点/2.2.1_公式与表格复核：符号、单位、表头与单元格结构"
+    },
+    {
+      "id": "P11:3.1.1",
+      "kind": "subsection",
+      "before": "定位工具如何表达图像目标与位置置信度",
+      "after": "图像目标定位：检测对象、坐标、边界框与置信度",
+      "anchor": "p11-3-1-1",
+      "path": "content/专题知识/模型/科研文档与图像信息提取/README.md",
+      "old_output_directory": "content/专题知识/模型/科研文档与图像信息提取/3.1_LocateAnything 的辅助作用/3.1.1_定位工具如何表达图像目标与位置置信度",
+      "new_output_directory": "content/专题知识/模型/科研文档与图像信息提取/3.1_LocateAnything 的辅助作用/3.1.1_图像目标定位：检测对象、坐标、边界框与置信度"
+    },
+    {
+      "id": "P11:3.2.1",
+      "kind": "subsection",
+      "before": "抽取结果怎样关联回原页并允许人工复核",
+      "after": "文档溯源与校对：页码、原图区域、文本关联与人工纠错",
+      "anchor": "p11-3-2-1",
+      "path": "content/专题知识/模型/科研文档与图像信息提取/README.md",
+      "old_output_directory": "content/专题知识/模型/科研文档与图像信息提取/3.2_可追溯证据/3.2.1_抽取结果怎样关联回原页并允许人工复核",
+      "new_output_directory": "content/专题知识/模型/科研文档与图像信息提取/3.2_可追溯证据/3.2.1_文档溯源与校对：页码、原图区域、文本关联与人工纠错"
+    },
+    {
+      "id": "P11:4.1.1",
+      "kind": "subsection",
+      "before": "怎样评价科学文档抽取中的内容与结构错误",
+      "after": "文档抽取评估：识别错误、结构一致性与科学实体复核",
+      "anchor": "p11-4-1-1",
+      "path": "content/专题知识/模型/科研文档与图像信息提取/README.md",
+      "old_output_directory": "content/专题知识/模型/科研文档与图像信息提取/4.1_提取评价/4.1.1_怎样评价科学文档抽取中的内容与结构错误",
+      "new_output_directory": "content/专题知识/模型/科研文档与图像信息提取/4.1_提取评价/4.1.1_文档抽取评估：识别错误、结构一致性与科学实体复核"
+    },
+    {
+      "id": "B03:4",
+      "kind": "chapter",
+      "before": "结构证据从哪里来",
+      "after": "实验结构证据与结构文件",
+      "anchor": "b03-4",
+      "path": "content/基础知识/生物学/蛋白质结构与功能基础/README.md"
+    },
+    {
+      "id": "M03:1.2",
+      "kind": "section",
+      "before": "图从哪里来",
+      "after": "图的构建方法与先验来源",
+      "anchor": "m03-1-2",
+      "path": "content/基础知识/模型方法/图神经网络与几何学习/README.md"
+    }
+  ]
+}

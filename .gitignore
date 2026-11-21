@@ -1,0 +1,23 @@
+# 本地环境和可再生构建产物；site/ 与项目自编 skill 必须入库。
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+/build/
+/_work/
+/node_modules/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 视频、字幕和图文稿应放在 _work，不放在 content。
+content/**/transcripts/
+content/**/*.mp4
+content/**/*.mkv
+content/**/*.webm
+content/**/*.flv
+content/**/*.srt
+content/**/*.ass
+content/**/*.vtt
