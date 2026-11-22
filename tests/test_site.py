@@ -26,6 +26,21 @@ class SiteTests(unittest.TestCase):
             nav = builder.build_nav(files)
             self.assertIn({'知识总目录': 'knowledge.md'}, nav)
 
+    def test_nav_uses_readme_h1_instead_of_filename(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            section = root / 'content/基础/系列/1.1_节/1.1.1_小节'
+            section.mkdir(parents=True)
+            (section / 'README.md').write_text('# 1.1.1 小节标题 · 导读\n\n正文。\n', encoding='utf-8')
+            files = {
+                'content/基础/系列/1.1_节/1.1.1_小节/README.md':
+                    '基础/系列/1.1_节/1.1.1_小节/index.md',
+            }
+            with patch.object(builder, 'ROOT', str(root)), patch.object(builder, 'CONTENT', str(root / 'content')):
+                nav = str(builder.build_nav(files))
+            self.assertIn('1.1.1 小节标题', nav)
+            self.assertNotIn('README.md', nav)
+
     def test_nested_cross_track_reference_preserves_anchor(self):
         stats = {'rewritten': 0, 'unpublished': 0, 'missing': 0}
         source = 'content/专题知识/模型/新模型/README.md'

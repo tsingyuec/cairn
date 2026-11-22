@@ -104,12 +104,32 @@ def nmatch(s: str) -> str:
     return unicodedata.normalize("NFC", s)
 
 
+def page_title(src_rel: str) -> str:
+    """取 README 的一级标题作为导航名，避免侧栏出现一堆 README.md。"""
+    if not src_rel:
+        return ""
+    path = os.path.join(ROOT, src_rel)
+    try:
+        with open(path, encoding="utf-8") as fh:
+            for line in fh:
+                line = line.strip()
+                if line.startswith("# "):
+                    title = line[2:].strip()
+                    if title.endswith(" · 导读"):
+                        title = title[: -len(" · 导读")].rstrip()
+                    return title
+    except OSError:
+        pass
+    return ""
+
+
 def build_nav(files: dict[str, str]):
     """按 /content 的真实目录结构生成 nav：目录名 / 文件名原样保留，
     保留 blog 层级，不显示图片（assets）等非 .md 目录。"""
     index_of: dict[str, str] = {}
     pages_of: dict[str, list[str]] = defaultdict(list)
     all_dirs: set[str] = set()
+    src_of = {dr: rr for rr, dr in files.items()}
 
     for rr, dr in files.items():
         if not dr.endswith(".md"):
@@ -138,7 +158,10 @@ def build_nav(files: dict[str, str]):
             files_here.append(index_of[d])
         for p in sorted(files_here, key=lambda x: _natural_key(posixpath.basename(x))):
             base = posixpath.basename(p)
-            label = "README.md" if base == "index.md" else base
+            if base == "index.md":
+                label = page_title(src_of.get(p, "")) or posixpath.basename(d) or "总览"
+            else:
+                label = base
             entries.append({label: p})
         return entries
 
