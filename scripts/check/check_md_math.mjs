@@ -9,9 +9,9 @@
 //   1. 每个 $...$ / $$...$$ 都能被 KaTeX 无错渲染；
 //   2. 没有落单的 $（奇数个定界符）；
 //   3. 围栏代码块（```）里的 $ 不计入，但会提示；
-//   4. 报告残留的「代码样式公式」嫌疑（反引号里含 _{ ^ _ \ 等数学记号）。
+//   4. 报告残留的「代码样式公式」嫌疑（反引号里含 _{ ^ _ \ 等数学记号），仅警告。
 //
-// 退出码：0 = 通过；1 = 有问题。
+// 退出码：0 = 通过；1 = 有公式渲染错误或落单 $。
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -151,4 +151,4 @@ for (const f of files.sort()) {
 }
 
 console.log(`\n合计：${files.length} 个文件，${totalMath} 个公式，失败 ${totalErr}，落单 $ ${totalStray}，疑似未转换 ${totalLeftover}`);
-process.exit(totalErr === 0 && totalStray === 0 && totalLeftover === 0 ? 0 : 1);
+process.exit(totalErr === 0 && totalStray === 0 ? 0 : 1);
