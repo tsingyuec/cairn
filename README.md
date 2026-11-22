@@ -70,7 +70,7 @@ mkdocs build --strict
 
 构建链是 `content/ → build/docs + build/nav.yml → build/site`。根 README 是站点首页，`content/README.md` 是知识总目录，各级 README 转为目录索引页；保留跨脉络锚点。不要编辑 `build/`。
 
-未配置远程仓库、正式域名或自动部署；CI 只验证并生成可下载的静态站产物，不沿用来源项目的 GitHub Pages 身份。
+已配置 GitHub 仓库与 GitHub Pages 自动部署；推送到 `main` 后由 CI 验证、构建并发布到 <https://tsingyuec.github.io/cairn/>，Actions 中同时保留构建产物。
 
 ## 小节处理方式
 

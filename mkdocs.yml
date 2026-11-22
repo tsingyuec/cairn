@@ -8,8 +8,8 @@ INHERIT: build/nav.yml
 
 site_name: cairn · 知识体系
 site_description: 跨学科概念、通用方法、具体模型与原始数据资源的可引用知识网络
-# 尚未配置发布域名和远程仓库；部署时填写自己的地址，不沿用来源项目。
-site_url: ""
+# GitHub Pages 发布地址。
+site_url: "https://tsingyuec.github.io/cairn/"
 edit_uri: ""
 
 docs_dir: build/docs
